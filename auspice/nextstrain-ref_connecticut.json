@@ -1291,7 +1291,7 @@
       "frequencies"
     ],
     "title": "Yale SARS-CoV-2 Genome Surveillance Initiative",
-    "updated": "2021-03-30"
+    "updated": "2021-03-31"
   },
   "tree": {
     "branch_attrs": {
@@ -1356,9 +1356,9 @@
           },
           "region": {
             "confidence": {
-              "Eastern Asia": 0.9999999999999999
+              "Eastern Asia": 1.0
             },
-            "entropy": -9.99866855976916e-13,
+            "entropy": -1.000088900581841e-12,
             "value": "Eastern Asia"
           },
           "submitting_lab": {
@@ -1424,9 +1424,9 @@
           },
           "region": {
             "confidence": {
-              "Eastern Asia": 0.9999999999999999
+              "Eastern Asia": 1.0
             },
-            "entropy": -9.99866855976916e-13,
+            "entropy": -1.000088900581841e-12,
             "value": "Eastern Asia"
           },
           "submitting_lab": {
@@ -1602,9 +1602,9 @@
           },
           "region": {
             "confidence": {
-              "Eastern Asia": 0.9999999999999999
+              "Eastern Asia": 1.0
             },
-            "entropy": -9.99866855976916e-13,
+            "entropy": -1.000088900581841e-12,
             "value": "Eastern Asia"
           },
           "submitting_lab": {
@@ -1763,9 +1763,9 @@
               },
               "region": {
                 "confidence": {
-                  "Eastern Asia": 1.0
+                  "Eastern Asia": 0.9999999999999999
                 },
-                "entropy": -1.000088900581841e-12,
+                "entropy": -9.99866855976916e-13,
                 "value": "Eastern Asia"
               },
               "submitting_lab": {
@@ -1936,25 +1936,25 @@
               "div": 5,
               "num_date": {
                 "confidence": [
-                  2020.0529727126952,
-                  2020.1329995217138
+                  2020.0529615122482,
+                  2020.1330012452108
                 ],
-                "value": 2020.1174049930169
+                "value": 2020.1174049652493
               },
               "region": {
                 "confidence": {
-                  "Eastern Asia": 0.276441855555959,
-                  "Northern Europe": 0.0053941214257736386,
-                  "Oceania": 0.21366935044042032,
-                  "Western Asia": 0.48216158688138544
+                  "Eastern Asia": 0.276441852034883,
+                  "Northern Europe": 0.005394121755905052,
+                  "Oceania": 0.21366935095317913,
+                  "Western Asia": 0.48216158811789667
                 },
-                "entropy": 1.1924534599626135,
+                "entropy": 1.1924534670942093,
                 "value": "Western Asia"
               }
             }
           }
         ],
-        "name": "NODE_0000034",
+        "name": "NODE_0000035",
         "node_attrs": {
           "clade_membership": {
             "value": "unassigned"
@@ -1962,18 +1962,18 @@
           "div": 4,
           "num_date": {
             "confidence": [
-              2020.012328948056,
-              2020.047421870912
+              2020.0121968415824,
+              2020.0474222555847
             ],
-            "value": 2020.041807437058
+            "value": 2020.041807437618
           },
           "region": {
             "confidence": {
-              "Eastern Asia": 0.7606408491938094,
-              "Oceania": 0.004027298161370084,
-              "Western Asia": 0.23334676031172794
+              "Eastern Asia": 0.7606408458950347,
+              "Oceania": 0.004027298473081906,
+              "Western Asia": 0.23334676302691404
             },
-            "entropy": 0.5859087554251076,
+            "entropy": 0.5859087623949809,
             "value": "Eastern Asia"
           }
         }
@@ -2372,17 +2372,17 @@
               "div": 7,
               "num_date": {
                 "confidence": [
-                  2020.0825603814903,
+                  2020.0826642724937,
                   2020.129781420765
                 ],
                 "value": 2020.1196680757885
               },
               "region": {
                 "confidence": {
-                  "Central America": 0.9730165743394561,
-                  "Eastern Asia": 0.022649360802008654
+                  "Central America": 0.9730165727671649,
+                  "Eastern Asia": 0.02264936184190629
                 },
-                "entropy": 0.14528704963913705,
+                "entropy": 0.14528705757573418,
                 "value": "Central America"
               }
             }
@@ -2611,19 +2611,19 @@
                   "div": 2,
                   "num_date": {
                     "confidence": [
-                      2020.0189378929658,
-                      2020.0987321367386
+                      2020.0200417915994,
+                      2020.0980956192318
                     ],
-                    "value": 2020.0552295598757
+                    "value": 2020.0509755767769
                   },
                   "region": {
                     "confidence": {
-                      "Eastern Asia": 0.8105682798500193,
-                      "North America": 0.0333366532433717,
-                      "Southern Europe": 0.11702446194548527,
-                      "Western Europe": 0.023535380519736786
+                      "Eastern Asia": 0.8105682672769138,
+                      "North America": 0.033336655111571835,
+                      "Southern Europe": 0.11702446872862995,
+                      "Western Europe": 0.023535382576151315
                     },
-                    "entropy": 0.7118402041273864,
+                    "entropy": 0.7118402408916186,
                     "value": "Eastern Asia"
                   }
                 }
@@ -2637,19 +2637,19 @@
               "div": 2,
               "num_date": {
                 "confidence": [
-                  2019.9803840462573,
-                  2020.0689203042612
+                  2019.9777146336612,
+                  2020.0654044363666
                 ],
-                "value": 2020.0422171421308
+                "value": 2020.0422171714456
               },
               "region": {
                 "confidence": {
-                  "Eastern Asia": 0.8030711615115939,
-                  "North America": 0.099361148749432,
-                  "Southern Europe": 0.044393891061245104,
-                  "Western Europe": 0.03283020976231649
+                  "Eastern Asia": 0.8030711481315008,
+                  "North America": 0.09936115439810997,
+                  "Southern Europe": 0.044393893527749036,
+                  "Western Europe": 0.032830212640180996
                 },
-                "entropy": 0.7641242017608834,
+                "entropy": 0.7641242422207799,
                 "value": "Eastern Asia"
               }
             }
@@ -2663,19 +2663,19 @@
           "div": 2,
           "num_date": {
             "confidence": [
-              2019.9610164072649,
-              2019.9937202840883
+              2019.9604746063803,
+              2019.9930667247982
             ],
-            "value": 2019.9703246093375
+            "value": 2019.970304093651
           },
           "region": {
             "confidence": {
-              "Eastern Asia": 0.9761814830502176,
-              "North America": 0.0015589160983962215,
-              "Southeastern Asia": 0.0016641075432055749,
-              "Western Europe": 0.018650411074259285
+              "Eastern Asia": 0.9761814805326222,
+              "North America": 0.0015589163003875614,
+              "Southeastern Asia": 0.0016641077838014746,
+              "Western Europe": 0.018650412838255283
             },
-            "entropy": 0.13316642431743128,
+            "entropy": 0.13316643647980053,
             "value": "Eastern Asia"
           }
         }
@@ -2841,16 +2841,16 @@
               "div": 2,
               "num_date": {
                 "confidence": [
-                  2019.989194394983,
-                  2020.0662809034034
+                  2019.9897557330444,
+                  2020.0670190165933
                 ],
-                "value": 2020.0407865875443
+                "value": 2020.0414091466744
               },
               "region": {
                 "confidence": {
-                  "Eastern Asia": 0.9994839170550099
+                  "Eastern Asia": 0.9994839169557139
                 },
-                "entropy": 0.005427390464966971,
+                "entropy": 0.005427391414818392,
                 "value": "Eastern Asia"
               }
             }
@@ -2932,9 +2932,9 @@
                   },
                   "region": {
                     "confidence": {
-                      "Eastern Asia": 1.0
+                      "Eastern Asia": 0.9999999999999999
                     },
-                    "entropy": -1.000088900581841e-12,
+                    "entropy": -9.99866855976916e-13,
                     "value": "Eastern Asia"
                   },
                   "submitting_lab": {
@@ -3183,19 +3183,19 @@
                   "div": 4,
                   "num_date": {
                     "confidence": [
-                      2020.0383946132495,
-                      2020.1105400795436
+                      2020.04257605788,
+                      2020.114811661383
                     ],
-                    "value": 2020.0668881177144
+                    "value": 2020.0670324048422
                   },
                   "region": {
                     "confidence": {
-                      "Eastern Asia": 0.3296220507315621,
-                      "Northern Europe": 0.3755702486247863,
-                      "Western Africa": 0.21013236319257245,
-                      "Western Europe": 0.032359190898223554
+                      "Eastern Asia": 0.32962204734704115,
+                      "Northern Europe": 0.3755702460966629,
+                      "Western Africa": 0.21013236422611442,
+                      "Western Europe": 0.03235919238366291
                     },
-                    "entropy": 1.4167785830336055,
+                    "entropy": 1.4167785994801714,
                     "value": "Northern Europe"
                   }
                 }
@@ -3428,19 +3428,19 @@
                       "div": 4,
                       "num_date": {
                         "confidence": [
-                          2020.0973149884703,
-                          2020.1410464975831
+                          2020.097285504351,
+                          2020.1410905525913
                         ],
-                        "value": 2020.1200956475006
+                        "value": 2020.1200956344824
                       },
                       "region": {
                         "confidence": {
-                          "Eastern Asia": 0.11182491495159295,
-                          "Northern Europe": 0.28806966316025295,
-                          "Southeastern Asia": 0.05729719437991661,
-                          "Western Europe": 0.46727557917867246
+                          "Eastern Asia": 0.11182491439825828,
+                          "Northern Europe": 0.28806966517575244,
+                          "Southeastern Asia": 0.05729719574143795,
+                          "Western Europe": 0.46727557347170223
                         },
-                        "entropy": 1.3914353527956962,
+                        "entropy": 1.3914353648733264,
                         "value": "Western Europe"
                       }
                     }
@@ -3577,9 +3577,9 @@
                               },
                               "region": {
                                 "confidence": {
-                                  "North America": 1.0
+                                  "North America": 0.9999999999999999
                                 },
-                                "entropy": -1.000088900581841e-12,
+                                "entropy": -9.99866855976916e-13,
                                 "value": "North America"
                               },
                               "submitting_lab": {
@@ -3669,19 +3669,19 @@
                           "div": 3,
                           "num_date": {
                             "confidence": [
-                              2020.1040571208655,
-                              2020.1581252305239
+                              2020.10328105148,
+                              2020.1579589978926
                             ],
-                            "value": 2020.121549572615
+                            "value": 2020.120746133082
                           },
                           "region": {
                             "confidence": {
-                              "North America": 0.11429186331713623,
-                              "Northern Europe": 0.0062807230355108835,
-                              "Southern Europe": 0.8475942095993911,
-                              "Western Europe": 0.023746216793719337
+                              "North America": 0.11429186770708152,
+                              "Northern Europe": 0.006280723547520304,
+                              "Southern Europe": 0.8475942030242516,
+                              "Western Europe": 0.02374621784563121
                             },
-                            "entropy": 0.5572255633345746,
+                            "entropy": 0.557225582354611,
                             "value": "Southern Europe"
                           }
                         }
@@ -3695,19 +3695,19 @@
                       "div": 3,
                       "num_date": {
                         "confidence": [
-                          2020.0691529810176,
-                          2020.1347562050996
+                          2020.0684170633494,
+                          2020.1341556083855
                         ],
-                        "value": 2020.116716043177
+                        "value": 2020.1180657995471
                       },
                       "region": {
                         "confidence": {
-                          "Eastern Asia": 0.022730077045590318,
-                          "North America": 0.0530957009267439,
-                          "Southern Europe": 0.861914472242294,
-                          "Western Europe": 0.0439387943129184
+                          "Eastern Asia": 0.022730078131786118,
+                          "North America": 0.053095702984846706,
+                          "Southern Europe": 0.8619144663922452,
+                          "Western Europe": 0.043938795629605135
                         },
-                        "entropy": 0.597606582597582,
+                        "entropy": 0.5976066034283993,
                         "value": "Southern Europe"
                       }
                     }
@@ -3721,19 +3721,19 @@
                   "div": 3,
                   "num_date": {
                     "confidence": [
-                      2020.013526413028,
-                      2020.1336559909214
+                      2020.0153898338046,
+                      2020.1314597663081
                     ],
-                    "value": 2020.0669782547388
+                    "value": 2020.0692399482264
                   },
                   "region": {
                     "confidence": {
-                      "Eastern Asia": 0.3455045647376243,
-                      "Northern Europe": 0.11644847613828874,
-                      "Southern Europe": 0.2261160832289196,
-                      "Western Europe": 0.23452918941301937
+                      "Eastern Asia": 0.3455045625924879,
+                      "Northern Europe": 0.11644847731469388,
+                      "Southern Europe": 0.2261160832458328,
+                      "Western Europe": 0.2345291864252028
                     },
-                    "entropy": 1.587287736070894,
+                    "entropy": 1.5872877477797438,
                     "value": "Eastern Asia"
                   }
                 }
@@ -3747,19 +3747,19 @@
               "div": 3,
               "num_date": {
                 "confidence": [
-                  2020.0207996849379,
-                  2020.0594855243025
+                  2020.0208080018979,
+                  2020.05944760861
                 ],
-                "value": 2020.042367126799
+                "value": 2020.0423671392014
               },
               "region": {
                 "confidence": {
-                  "Eastern Asia": 0.9501760106097651,
-                  "Northern Europe": 0.02529116991438164,
-                  "Oceania": 0.005744001491892831,
-                  "Western Europe": 0.011916201427011377
+                  "Eastern Asia": 0.9501760080659589,
+                  "Northern Europe": 0.025291170563491908,
+                  "Oceania": 0.0057440020518529445,
+                  "Western Europe": 0.01191620203279784
                 },
-                "entropy": 0.26804238811258563,
+                "entropy": 0.26804240070511315,
                 "value": "Eastern Asia"
               }
             }
@@ -3773,17 +3773,17 @@
           "div": 1,
           "num_date": {
             "confidence": [
-              2019.939424664721,
-              2020.0611815148382
+              2019.940953483508,
+              2020.0615522677597
             ],
-            "value": 2019.9700503518832
+            "value": 2019.9704559363074
           },
           "region": {
             "confidence": {
-              "Eastern Asia": 0.9972881476443513,
-              "Northern Europe": 0.0011129058805589458
+              "Eastern Asia": 0.9972881472850824,
+              "Northern Europe": 0.0011129059925039419
             },
-            "entropy": 0.02317966988692788,
+            "entropy": 0.023179672689711998,
             "value": "Eastern Asia"
           }
         }
@@ -3854,9 +3854,9 @@
               },
               "region": {
                 "confidence": {
-                  "Eastern Asia": 0.9999999999999999
+                  "Eastern Asia": 1.0
                 },
-                "entropy": -9.99866855976916e-13,
+                "entropy": -1.000088900581841e-12,
                 "value": "Eastern Asia"
               },
               "submitting_lab": {
@@ -3947,9 +3947,9 @@
                   },
                   "region": {
                     "confidence": {
-                      "Northern Europe": 1.0
+                      "Northern Europe": 0.9999999999999999
                     },
-                    "entropy": -1.000088900581841e-12,
+                    "entropy": -9.99866855976916e-13,
                     "value": "Northern Europe"
                   },
                   "submitting_lab": {
@@ -4257,19 +4257,19 @@
                               "div": 0,
                               "num_date": {
                                 "confidence": [
-                                  2019.9982377938495,
-                                  2020.0694761702186
+                                  2019.99798908263,
+                                  2020.0693886220324
                                 ],
-                                "value": 2020.0411717133613
+                                "value": 2020.0411717133627
                               },
                               "region": {
                                 "confidence": {
-                                  "Eastern Asia": 0.3980814654613287,
-                                  "Northern Europe": 0.2828484971190284,
-                                  "Western Asia": 0.2532011950344935,
-                                  "Western Europe": 0.027837776220142267
+                                  "Eastern Asia": 0.3980814600935152,
+                                  "Northern Europe": 0.2828484973577976,
+                                  "Western Asia": 0.2532011962482522,
+                                  "Western Europe": 0.02783777751783643
                                 },
-                                "entropy": 1.35857675123506,
+                                "entropy": 1.3585767658553758,
                                 "value": "Eastern Asia"
                               }
                             }
@@ -4391,9 +4391,9 @@
                                       },
                                       "region": {
                                         "confidence": {
-                                          "Eastern Asia": 0.9999999999999999
+                                          "Eastern Asia": 1.0
                                         },
-                                        "entropy": -9.99866855976916e-13,
+                                        "entropy": -1.000088900581841e-12,
                                         "value": "Eastern Asia"
                                       },
                                       "submitting_lab": {
@@ -4470,9 +4470,9 @@
                                       },
                                       "region": {
                                         "confidence": {
-                                          "Western Europe": 0.9999999999999999
+                                          "Western Europe": 1.0
                                         },
-                                        "entropy": -9.99866855976916e-13,
+                                        "entropy": -1.000088900581841e-12,
                                         "value": "Western Europe"
                                       },
                                       "submitting_lab": {
@@ -4490,19 +4490,19 @@
                                   "div": 1,
                                   "num_date": {
                                     "confidence": [
-                                      2020.046179518765,
+                                      2020.0460108269942,
                                       2020.077868852459
                                     ],
                                     "value": 2020.077868852459
                                   },
                                   "region": {
                                     "confidence": {
-                                      "Eastern Asia": 0.8925019050286909,
-                                      "North America": 0.002657439928653391,
-                                      "Northern Europe": 0.008503817596206933,
-                                      "Western Europe": 0.09254046419268029
+                                      "Eastern Asia": 0.8925018987041909,
+                                      "North America": 0.0026574403298373576,
+                                      "Northern Europe": 0.008503818431383566,
+                                      "Western Europe": 0.09254046871661475
                                     },
-                                    "entropy": 0.4058614258038877,
+                                    "entropy": 0.4058614463498575,
                                     "value": "Eastern Asia"
                                   }
                                 }
@@ -4566,9 +4566,9 @@
                                       },
                                       "region": {
                                         "confidence": {
-                                          "Eastern Asia": 0.9999999999999999
+                                          "Eastern Asia": 1.0
                                         },
-                                        "entropy": -9.99866855976916e-13,
+                                        "entropy": -1.000088900581841e-12,
                                         "value": "Eastern Asia"
                                       },
                                       "submitting_lab": {
@@ -4724,9 +4724,9 @@
                                               },
                                               "region": {
                                                 "confidence": {
-                                                  "Northern Europe": 1.0
+                                                  "Northern Europe": 0.9999999999999999
                                                 },
-                                                "entropy": -1.000088900581841e-12,
+                                                "entropy": -9.99866855976916e-13,
                                                 "value": "Northern Europe"
                                               },
                                               "submitting_lab": {
@@ -4885,18 +4885,18 @@
                                               "div": 0,
                                               "num_date": {
                                                 "confidence": [
-                                                  2020.107847834444,
-                                                  2020.1795970023318
+                                                  2020.1079314832486,
+                                                  2020.1795584172178
                                                 ],
-                                                "value": 2020.147493561891
+                                                "value": 2020.147493630393
                                               },
                                               "region": {
                                                 "confidence": {
-                                                  "North America": 0.001574698446997039,
-                                                  "Northern Europe": 0.9942392421233668,
-                                                  "Western Europe": 0.003273782741166037
+                                                  "North America": 0.0015746987220536656,
+                                                  "Northern Europe": 0.9942392413287051,
+                                                  "Western Europe": 0.003273783119515218
                                                 },
-                                                "entropy": 0.042025617542170254,
+                                                "entropy": 0.04202562265852475,
                                                 "value": "Northern Europe"
                                               }
                                             }
@@ -4910,19 +4910,19 @@
                                           "div": 0,
                                           "num_date": {
                                             "confidence": [
-                                              2020.0979228308972,
-                                              2020.1538318530595
+                                              2020.0981795557896,
+                                              2020.153803459144
                                             ],
-                                            "value": 2020.1210543226384
+                                            "value": 2020.1214791406353
                                           },
                                           "region": {
                                             "confidence": {
-                                              "Eastern Asia": 0.011266076674503524,
-                                              "North America": 0.007567315657012362,
-                                              "Northern Europe": 0.9434217594602765,
-                                              "Western Europe": 0.03599308459056255
+                                              "Eastern Asia": 0.011266077382772402,
+                                              "North America": 0.007567316580439997,
+                                              "Northern Europe": 0.9434217556808565,
+                                              "Western Europe": 0.035993086481204445
                                             },
-                                            "entropy": 0.2764358507147687,
+                                            "entropy": 0.27643586657210306,
                                             "value": "Northern Europe"
                                           }
                                         }
@@ -4936,19 +4936,19 @@
                                       "div": 0,
                                       "num_date": {
                                         "confidence": [
-                                          2020.0489736724917,
-                                          2020.127511070748
+                                          2020.049269524625,
+                                          2020.1276768935586
                                         ],
-                                        "value": 2020.1170030786848
+                                        "value": 2020.1170031824438
                                       },
                                       "region": {
                                         "confidence": {
-                                          "Eastern Asia": 0.2175161296000129,
-                                          "North America": 0.025288468776771503,
-                                          "Northern Europe": 0.3187106631904582,
-                                          "Western Europe": 0.4253926178489362
+                                          "Eastern Asia": 0.21751612886880073,
+                                          "North America": 0.025288470548673704,
+                                          "Northern Europe": 0.3187106629380956,
+                                          "Western Europe": 0.42539261599576145
                                         },
-                                        "entropy": 1.2330341479246067,
+                                        "entropy": 1.2330341579880921,
                                         "value": "Western Europe"
                                       }
                                     }
@@ -4962,19 +4962,19 @@
                                   "div": 0,
                                   "num_date": {
                                     "confidence": [
-                                      2020.0281321150817,
-                                      2020.0596955803535
+                                      2020.0281191475092,
+                                      2020.0597702602188
                                     ],
-                                    "value": 2020.0475517316556
+                                    "value": 2020.047551735772
                                   },
                                   "region": {
                                     "confidence": {
-                                      "Eastern Asia": 0.9052307646372748,
-                                      "North America": 0.0032168726618644313,
-                                      "Northern Europe": 0.02889028357696563,
-                                      "Western Europe": 0.058876589800036835
+                                      "Eastern Asia": 0.9052307590273326,
+                                      "North America": 0.003216873157856248,
+                                      "Northern Europe": 0.02889028563651487,
+                                      "Western Europe": 0.05887659226947281
                                     },
-                                    "entropy": 0.4055341007812937,
+                                    "entropy": 0.40553412166207026,
                                     "value": "Eastern Asia"
                                   }
                                 }
@@ -4988,19 +4988,19 @@
                               "div": 0,
                               "num_date": {
                                 "confidence": [
-                                  2020.004523181392,
-                                  2020.054317901561
+                                  2020.0041178933102,
+                                  2020.0543421474242
                                 ],
-                                "value": 2020.0394518351918
+                                "value": 2020.0394518410187
                               },
                               "region": {
                                 "confidence": {
-                                  "Eastern Asia": 0.9307577414006111,
-                                  "North America": 0.0020683428930344115,
-                                  "Northern Europe": 0.017221973493104663,
-                                  "Western Europe": 0.046991052984036386
+                                  "Eastern Asia": 0.930757736794267,
+                                  "North America": 0.0020683432775248723,
+                                  "Northern Europe": 0.017221974933964282,
+                                  "Western Europe": 0.04699105522059204
                                 },
-                                "entropy": 0.31460811969952207,
+                                "entropy": 0.3146081384395073,
                                 "value": "Eastern Asia"
                               }
                             }
@@ -5014,19 +5014,19 @@
                           "div": 0,
                           "num_date": {
                             "confidence": [
-                              2019.9757741501767,
-                              2020.0512838115676
+                              2019.976249386748,
+                              2020.0514941356357
                             ],
-                            "value": 2020.0227332751567
+                            "value": 2020.0227332958268
                           },
                           "region": {
                             "confidence": {
-                              "Eastern Asia": 0.9263891511561039,
-                              "Northern Europe": 0.03219268797831282,
-                              "Western Asia": 0.01359252148516335,
-                              "Western Europe": 0.021580022295699285
+                              "Eastern Asia": 0.9263891458356144,
+                              "Northern Europe": 0.0321926900762605,
+                              "Western Asia": 0.013592522661359761,
+                              "Western Europe": 0.02158002341920822
                             },
-                            "entropy": 0.36412754737614184,
+                            "entropy": 0.3641275697045431,
                             "value": "Eastern Asia"
                           }
                         }
@@ -5040,18 +5040,18 @@
                       "div": 0,
                       "num_date": {
                         "confidence": [
-                          2019.9712172718262,
+                          2019.971161560117,
                           2019.9849315068493
                         ],
                         "value": 2019.9849315068493
                       },
                       "region": {
                         "confidence": {
-                          "Eastern Asia": 0.9947182705847055,
-                          "Northern Europe": 0.002457024960277306,
-                          "Western Europe": 0.0015056194302590553
+                          "Eastern Asia": 0.9947182698020282,
+                          "Northern Europe": 0.002457025289838272,
+                          "Western Europe": 0.0015056196300198758
                         },
-                        "entropy": 0.04061476682189206,
+                        "entropy": 0.040614772197446275,
                         "value": "Eastern Asia"
                       }
                     }
@@ -5065,17 +5065,17 @@
                   "div": 0,
                   "num_date": {
                     "confidence": [
-                      2019.9614821207874,
-                      2019.9839212539543
+                      2019.9612339221835,
+                      2019.9839212520026
                     ],
-                    "value": 2019.9770655183047
+                    "value": 2019.9770655192804
                   },
                   "region": {
                     "confidence": {
-                      "Eastern Asia": 0.9957353139965677,
-                      "Northern Europe": 0.002811420733170277
+                      "Eastern Asia": 0.9957353133331729,
+                      "Northern Europe": 0.002811421110582457
                     },
-                    "entropy": 0.03260928704261224,
+                    "entropy": 0.03260929161324829,
                     "value": "Eastern Asia"
                   }
                 }
@@ -5089,19 +5089,19 @@
               "div": 0,
               "num_date": {
                 "confidence": [
-                  2019.9385186275651,
-                  2019.9814811292997
+                  2019.937440189268,
+                  2019.981481138292
                 ],
-                "value": 2019.964109678368
+                "value": 2019.967797128739
               },
               "region": {
                 "confidence": {
-                  "Eastern Asia": 0.9486942622862372,
-                  "North America": 0.0015964610160152247,
-                  "Northern Europe": 0.041817921277063824,
-                  "Western Europe": 0.00452499701477325
+                  "Eastern Asia": 0.9486942582196713,
+                  "North America": 0.0015964612390469124,
+                  "Northern Europe": 0.04181792410918212,
+                  "Western Europe": 0.004524997552924661
                 },
-                "entropy": 0.2427400473216656,
+                "entropy": 0.24274006400212017,
                 "value": "Eastern Asia"
               }
             }
@@ -5115,17 +5115,17 @@
           "div": 0,
           "num_date": {
             "confidence": [
-              2019.9069559205443,
-              2019.9789281333308
+              2019.907507270364,
+              2019.978928134025
             ],
-            "value": 2019.9364537958634
+            "value": 2019.936104885835
           },
           "region": {
             "confidence": {
-              "Eastern Asia": 0.9972922927738466,
-              "Northern Europe": 0.0016487207795959206
+              "Eastern Asia": 0.9972922923540868,
+              "Northern Europe": 0.0016487209963133027
             },
-            "entropy": 0.0223411630215008,
+            "entropy": 0.022341166162122932,
             "value": "Eastern Asia"
           }
         }
@@ -5592,7 +5592,7 @@
                             }
                           }
                         ],
-                        "name": "NODE_0000038",
+                        "name": "NODE_0000037",
                         "node_attrs": {
                           "clade_membership": {
                             "value": "B.1"
@@ -5600,17 +5600,17 @@
                           "div": 5,
                           "num_date": {
                             "confidence": [
-                              2020.1126580043015,
-                              2020.1573891887358
+                              2020.112502860475,
+                              2020.1574538909686
                             ],
-                            "value": 2020.1221354703034
+                            "value": 2020.1225598071019
                           },
                           "region": {
                             "confidence": {
-                              "North America": 0.001163540806142008,
-                              "Western Europe": 0.9978588910825767
+                              "North America": 0.0011635410371073226,
+                              "Western Europe": 0.9978588906495065
                             },
-                            "entropy": 0.01798212292731642,
+                            "entropy": 0.017982126143159756,
                             "value": "Western Europe"
                           }
                         }
@@ -5758,7 +5758,7 @@
                             }
                           }
                         ],
-                        "name": "NODE_0000039",
+                        "name": "NODE_0000038",
                         "node_attrs": {
                           "clade_membership": {
                             "value": "B.1"
@@ -5766,23 +5766,23 @@
                           "div": 5,
                           "num_date": {
                             "confidence": [
-                              2020.1104584882494,
-                              2020.1510387871456
+                              2020.1103706135718,
+                              2020.151033901865
                             ],
-                            "value": 2020.1213476111473
+                            "value": 2020.121515246797
                           },
                           "region": {
                             "confidence": {
-                              "North America": 0.001163540806142008,
-                              "Western Europe": 0.9978588910825767
+                              "North America": 0.0011635410371073226,
+                              "Western Europe": 0.9978588906495065
                             },
-                            "entropy": 0.01798212292731642,
+                            "entropy": 0.017982126143159756,
                             "value": "Western Europe"
                           }
                         }
                       }
                     ],
-                    "name": "NODE_0000037",
+                    "name": "NODE_0000036",
                     "node_attrs": {
                       "clade_membership": {
                         "value": "B.1"
@@ -5790,17 +5790,17 @@
                       "div": 5,
                       "num_date": {
                         "confidence": [
-                          2020.084178189027,
-                          2020.1362890500309
+                          2020.0837352864182,
+                          2020.1360809424777
                         ],
-                        "value": 2020.1173691316667
+                        "value": 2020.1173691075246
                       },
                       "region": {
                         "confidence": {
-                          "North America": 0.0016001695948605513,
-                          "Western Europe": 0.9971127838727033
+                          "North America": 0.0016001699372424378,
+                          "Western Europe": 0.9971127832430203
                         },
-                        "entropy": 0.02326178814032568,
+                        "entropy": 0.02326179259931794,
                         "value": "Western Europe"
                       }
                     }
@@ -5814,18 +5814,18 @@
                   "div": 5,
                   "num_date": {
                     "confidence": [
-                      2020.0478002790276,
-                      2020.1245743952265
+                      2020.0477289309874,
+                      2020.1243604972224
                     ],
-                    "value": 2020.1140906159546
+                    "value": 2020.1140905810657
                   },
                   "region": {
                     "confidence": {
-                      "North America": 0.0032891401810747544,
-                      "Northern Europe": 0.0020167315313949523,
-                      "Western Europe": 0.9938016280232344
+                      "North America": 0.003289140795283941,
+                      "Northern Europe": 0.002016731917757563,
+                      "Western Europe": 0.9938016268202469
                     },
-                    "entropy": 0.04506483808397831,
+                    "entropy": 0.045064845708051346,
                     "value": "Western Europe"
                   }
                 }
@@ -6206,7 +6206,7 @@
                                     }
                                   }
                                 ],
-                                "name": "NODE_0000046",
+                                "name": "NODE_0000045",
                                 "node_attrs": {
                                   "clade_membership": {
                                     "value": "B.1"
@@ -6214,19 +6214,19 @@
                                   "div": 4,
                                   "num_date": {
                                     "confidence": [
-                                      2020.109913936237,
-                                      2020.1479940342244
+                                      2020.1096866117325,
+                                      2020.1480304727504
                                     ],
-                                    "value": 2020.1205315673467
+                                    "value": 2020.1210201532099
                                   },
                                   "region": {
                                     "confidence": {
-                                      "North America": 0.12677717570092256,
-                                      "Northern Europe": 0.02479552876193837,
-                                      "Southern Europe": 0.33215940016807816,
-                                      "Western Europe": 0.509935369536216
+                                      "North America": 0.12677717777910133,
+                                      "Northern Europe": 0.02479553023543375,
+                                      "Southern Europe": 0.33215940696013946,
+                                      "Western Europe": 0.5099353584796684
                                     },
-                                    "entropy": 1.1052021738292965,
+                                    "entropy": 1.105202188391879,
                                     "value": "Western Europe"
                                   }
                                 }
@@ -6296,9 +6296,9 @@
                                           },
                                           "region": {
                                             "confidence": {
-                                              "Southern Europe": 0.9999999999999999
+                                              "Southern Europe": 1.0
                                             },
-                                            "entropy": -9.99866855976916e-13,
+                                            "entropy": -1.000088900581841e-12,
                                             "value": "Southern Europe"
                                           },
                                           "submitting_lab": {
@@ -6484,25 +6484,25 @@
                                           "div": 6,
                                           "num_date": {
                                             "confidence": [
-                                              2020.145477057323,
-                                              2020.1844644257778
+                                              2020.1455058209203,
+                                              2020.1844520247828
                                             ],
-                                            "value": 2020.16447992067
+                                            "value": 2020.1645774847468
                                           },
                                           "region": {
                                             "confidence": {
-                                              "North America": 0.9532481934161738,
-                                              "Northern Europe": 0.0056484706402323915,
-                                              "Southern Europe": 0.0221013952991875,
-                                              "Western Europe": 0.01769656865024873
+                                              "North America": 0.9532481900719232,
+                                              "Northern Europe": 0.005648471288959058,
+                                              "Southern Europe": 0.02210139700211593,
+                                              "Western Europe": 0.017696569444493947
                                             },
-                                            "entropy": 0.24159034405662821,
+                                            "entropy": 0.24159035863435022,
                                             "value": "North America"
                                           }
                                         }
                                       }
                                     ],
-                                    "name": "NODE_0000048",
+                                    "name": "NODE_0000047",
                                     "node_attrs": {
                                       "clade_membership": {
                                         "value": "B.1"
@@ -6510,19 +6510,19 @@
                                       "div": 4,
                                       "num_date": {
                                         "confidence": [
-                                          2020.1118234078035,
-                                          2020.1424396825619
+                                          2020.1112790484483,
+                                          2020.1422386318754
                                         ],
-                                        "value": 2020.1226555691946
+                                        "value": 2020.1226424226047
                                       },
                                       "region": {
                                         "confidence": {
-                                          "North America": 0.4550439027950101,
-                                          "Northern Europe": 0.034251513392113755,
-                                          "Southern Europe": 0.37477559131334803,
-                                          "Western Europe": 0.13001206982656383
+                                          "North America": 0.4550439003480613,
+                                          "Northern Europe": 0.03425151504470313,
+                                          "Southern Europe": 0.3747755960033998,
+                                          "Western Europe": 0.13001206536255
                                         },
-                                        "entropy": 1.1475273851742271,
+                                        "entropy": 1.14752738825269,
                                         "value": "North America"
                                       }
                                     }
@@ -6585,9 +6585,9 @@
                                               },
                                               "region": {
                                                 "confidence": {
-                                                  "Northern Europe": 1.0
+                                                  "Northern Europe": 0.9999999999999999
                                                 },
-                                                "entropy": -1.000088900581841e-12,
+                                                "entropy": -9.99866855976916e-13,
                                                 "value": "Northern Europe"
                                               },
                                               "submitting_lab": {
@@ -6650,9 +6650,9 @@
                                               },
                                               "region": {
                                                 "confidence": {
-                                                  "Northern Europe": 1.0
+                                                  "Northern Europe": 0.9999999999999999
                                                 },
-                                                "entropy": -1.000088900581841e-12,
+                                                "entropy": -9.99866855976916e-13,
                                                 "value": "Northern Europe"
                                               },
                                               "submitting_lab": {
@@ -6662,7 +6662,7 @@
                                             }
                                           }
                                         ],
-                                        "name": "NODE_0000051",
+                                        "name": "NODE_0000050",
                                         "node_attrs": {
                                           "clade_membership": {
                                             "value": "B.1"
@@ -6670,19 +6670,19 @@
                                           "div": 4,
                                           "num_date": {
                                             "confidence": [
-                                              2020.115862906791,
-                                              2020.1625373807578
+                                              2020.1160468846122,
+                                              2020.1623797501682
                                             ],
-                                            "value": 2020.1302129893284
+                                            "value": 2020.1297302938005
                                           },
                                           "region": {
                                             "confidence": {
-                                              "North America": 0.019033198241631005,
-                                              "Northern Europe": 0.9421473949185236,
-                                              "Southern Europe": 0.007468508292057788,
-                                              "Western Europe": 0.02890330471448808
+                                              "North America": 0.019033199737147705,
+                                              "Northern Europe": 0.9421473916936765,
+                                              "Southern Europe": 0.007468508892603267,
+                                              "Western Europe": 0.028903305520958232
                                             },
-                                            "entropy": 0.2890523566879159,
+                                            "entropy": 0.2890523706781569,
                                             "value": "Northern Europe"
                                           }
                                         }
@@ -6819,7 +6819,7 @@
                                             }
                                           }
                                         ],
-                                        "name": "NODE_0000053",
+                                        "name": "NODE_0000051",
                                         "node_attrs": {
                                           "clade_membership": {
                                             "value": "B.1"
@@ -6827,25 +6827,25 @@
                                           "div": 4,
                                           "num_date": {
                                             "confidence": [
-                                              2020.115197118435,
+                                              2020.115421324519,
                                               2020.1407103825136
                                             ],
-                                            "value": 2020.1299570340734
+                                            "value": 2020.12943337267
                                           },
                                           "region": {
                                             "confidence": {
-                                              "North America": 0.07759870864125291,
-                                              "Northern Europe": 0.06691775515379585,
-                                              "Southern Europe": 0.3349741560933001,
-                                              "Western Europe": 0.5120316648061086
+                                              "North America": 0.07759871079767285,
+                                              "Northern Europe": 0.06691775723428624,
+                                              "Southern Europe": 0.33497416117051304,
+                                              "Western Europe": 0.512031654616999
                                             },
-                                            "entropy": 1.1418308095506913,
+                                            "entropy": 1.1418308250082927,
                                             "value": "Western Europe"
                                           }
                                         }
                                       }
                                     ],
-                                    "name": "NODE_0000050",
+                                    "name": "NODE_0000049",
                                     "node_attrs": {
                                       "clade_membership": {
                                         "value": "B.1"
@@ -6853,25 +6853,25 @@
                                       "div": 4,
                                       "num_date": {
                                         "confidence": [
-                                          2020.1129674905128,
-                                          2020.1324000383881
+                                          2020.1130503691058,
+                                          2020.1323550101827
                                         ],
-                                        "value": 2020.121416635598
+                                        "value": 2020.1210552371224
                                       },
                                       "region": {
                                         "confidence": {
-                                          "North America": 0.16795192744215065,
-                                          "Northern Europe": 0.2451986372519272,
-                                          "Southern Europe": 0.24130802753838015,
-                                          "Western Europe": 0.3379855819167407
+                                          "North America": 0.16795192971768433,
+                                          "Northern Europe": 0.24519864356538942,
+                                          "Southern Europe": 0.2413080299965418,
+                                          "Western Europe": 0.3379855700081658
                                         },
-                                        "entropy": 1.4025540111994048,
+                                        "entropy": 1.4025540203134117,
                                         "value": "Western Europe"
                                       }
                                     }
                                   }
                                 ],
-                                "name": "NODE_0000047",
+                                "name": "NODE_0000046",
                                 "node_attrs": {
                                   "clade_membership": {
                                     "value": "B.1"
@@ -6879,25 +6879,25 @@
                                   "div": 4,
                                   "num_date": {
                                     "confidence": [
-                                      2020.105631007999,
-                                      2020.1293378341725
+                                      2020.1057771712487,
+                                      2020.1294235943403
                                     ],
-                                    "value": 2020.1194534334395
+                                    "value": 2020.119740778833
                                   },
                                   "region": {
                                     "confidence": {
-                                      "North America": 0.3267560443239653,
-                                      "Northern Europe": 0.09648513060142949,
-                                      "Southern Europe": 0.2810558355081862,
-                                      "Western Europe": 0.2915549272345878
+                                      "North America": 0.3267560465148241,
+                                      "Northern Europe": 0.0964851347997494,
+                                      "Southern Europe": 0.28105584040686715,
+                                      "Western Europe": 0.29155491533680694
                                     },
-                                    "entropy": 1.3363416586788393,
+                                    "entropy": 1.3363416668405779,
                                     "value": "North America"
                                   }
                                 }
                               }
                             ],
-                            "name": "NODE_0000045",
+                            "name": "NODE_0000044",
                             "node_attrs": {
                               "clade_membership": {
                                 "value": "B.1"
@@ -6905,25 +6905,25 @@
                               "div": 4,
                               "num_date": {
                                 "confidence": [
-                                  2020.0894952620793,
-                                  2020.1265529275952
+                                  2020.089918321783,
+                                  2020.1265472086725
                                 ],
-                                "value": 2020.1140926275514
+                                "value": 2020.1140925756797
                               },
                               "region": {
                                 "confidence": {
-                                  "North America": 0.32799429425000365,
-                                  "Northern Europe": 0.07251282631208443,
-                                  "Southern Europe": 0.2353889630753537,
-                                  "Western Europe": 0.35997529867434347
+                                  "North America": 0.32799429818542364,
+                                  "Northern Europe": 0.07251282984874598,
+                                  "Southern Europe": 0.2353889674902511,
+                                  "Western Europe": 0.35997528614600866
                                 },
-                                "entropy": 1.2934225023309374,
+                                "entropy": 1.2934225141613451,
                                 "value": "Western Europe"
                               }
                             }
                           }
                         ],
-                        "name": "NODE_0000044",
+                        "name": "NODE_0000043",
                         "node_attrs": {
                           "clade_membership": {
                             "value": "B.1"
@@ -6931,25 +6931,25 @@
                           "div": 4,
                           "num_date": {
                             "confidence": [
-                              2020.0701321123954,
-                              2020.1240294151787
+                              2020.0700330325726,
+                              2020.1238873103362
                             ],
-                            "value": 2020.113489795994
+                            "value": 2020.1134897768773
                           },
                           "region": {
                             "confidence": {
-                              "North America": 0.5559407928078182,
-                              "Northern Europe": 0.12615741076792739,
-                              "Southern Europe": 0.0508144402939769,
-                              "Western Europe": 0.2593609967708848
+                              "North America": 0.555940798535502,
+                              "Northern Europe": 0.12615741499586267,
+                              "Southern Europe": 0.05081444210412792,
+                              "Western Europe": 0.2593609841950949
                             },
-                            "entropy": 1.138960600902817,
+                            "entropy": 1.1389606067699245,
                             "value": "North America"
                           }
                         }
                       }
                     ],
-                    "name": "NODE_0000043",
+                    "name": "NODE_0000041",
                     "node_attrs": {
                       "clade_membership": {
                         "value": "B.1"
@@ -6957,25 +6957,25 @@
                       "div": 4,
                       "num_date": {
                         "confidence": [
-                          2020.0255766027603,
-                          2020.1266701693382
+                          2020.0326208027407,
+                          2020.1266701499424
                         ],
-                        "value": 2020.074944756446
+                        "value": 2020.0776698129696
                       },
                       "region": {
                         "confidence": {
-                          "North America": 0.2662578384396569,
-                          "Northern Europe": 0.37328909965584567,
-                          "South America": 0.017534171451338478,
-                          "Western Europe": 0.3178194612637188
+                          "North America": 0.26625784149874226,
+                          "Northern Europe": 0.37328910769901874,
+                          "South America": 0.017534172371939577,
+                          "Western Europe": 0.317819447458285
                         },
-                        "entropy": 1.2770452190685164,
+                        "entropy": 1.2770452282939369,
                         "value": "Northern Europe"
                       }
                     }
                   }
                 ],
-                "name": "NODE_0000041",
+                "name": "NODE_0000039",
                 "node_attrs": {
                   "clade_membership": {
                     "value": "B.1"
@@ -6983,25 +6983,25 @@
                   "div": 4,
                   "num_date": {
                     "confidence": [
-                      2020.0009796719694,
-                      2020.1173852613001
+                      2019.9889752090385,
+                      2020.117385253001
                     ],
-                    "value": 2020.0582663900836
+                    "value": 2020.0598355291759
                   },
                   "region": {
                     "confidence": {
-                      "North America": 0.15341485343647124,
-                      "Northern Europe": 0.15666047403390598,
-                      "South America": 0.11525002996846366,
-                      "Western Europe": 0.5462744594286367
+                      "North America": 0.15341485691785534,
+                      "Northern Europe": 0.15666047794319762,
+                      "South America": 0.11525003427342059,
+                      "Western Europe": 0.5462744452817266
                     },
-                    "entropy": 1.3034258912778536,
+                    "entropy": 1.3034259186925037,
                     "value": "Western Europe"
                   }
                 }
               }
             ],
-            "name": "NODE_0000035",
+            "name": "NODE_0000034",
             "node_attrs": {
               "clade_membership": {
                 "value": "B.1"
@@ -7009,19 +7009,19 @@
               "div": 4,
               "num_date": {
                 "confidence": [
-                  2019.9796079244156,
-                  2020.1098033928345
+                  2019.9824224195183,
+                  2020.1098034546783
                 ],
-                "value": 2020.0400599388236
+                "value": 2020.040116665542
               },
               "region": {
                 "confidence": {
-                  "North America": 0.01994468738033655,
-                  "Northern Europe": 0.01649847751927839,
-                  "South America": 0.0034696719193036537,
-                  "Western Europe": 0.9552439605988142
+                  "North America": 0.01994468953213299,
+                  "Northern Europe": 0.016498479368292785,
+                  "South America": 0.0034696723614551315,
+                  "Western Europe": 0.9552439553267204
                 },
-                "entropy": 0.24107005920270194,
+                "entropy": 0.24107008298133056,
                 "value": "Western Europe"
               }
             }
@@ -7542,7 +7542,7 @@
                         }
                       }
                     ],
-                    "name": "NODE_0000058",
+                    "name": "NODE_0000054",
                     "node_attrs": {
                       "clade_membership": {
                         "value": "B.1"
@@ -7550,24 +7550,24 @@
                       "div": 9,
                       "num_date": {
                         "confidence": [
-                          2020.0966251324062,
-                          2020.1739531217318
+                          2020.097532895319,
+                          2020.1739525459282
                         ],
-                        "value": 2020.1569318483257
+                        "value": 2020.1569318675045
                       },
                       "region": {
                         "confidence": {
-                          "North America": 0.0020520765254049885,
-                          "Northern Europe": 0.9910520991132726,
-                          "Western Europe": 0.0063651820403020695
+                          "North America": 0.002052076876627942,
+                          "Northern Europe": 0.9910520979828258,
+                          "Western Europe": 0.006365182716848089
                         },
-                        "entropy": 0.05867122547155729,
+                        "entropy": 0.05867123200509306,
                         "value": "Northern Europe"
                       }
                     }
                   }
                 ],
-                "name": "NODE_0000061",
+                "name": "NODE_0000057",
                 "node_attrs": {
                   "clade_membership": {
                     "value": "B.1"
@@ -7575,19 +7575,19 @@
                   "div": 9,
                   "num_date": {
                     "confidence": [
-                      2020.0969128575516,
-                      2020.1602604677323
+                      2020.09834349434,
+                      2020.1604170597013
                     ],
-                    "value": 2020.1373269368635
+                    "value": 2020.1369573095233
                   },
                   "region": {
                     "confidence": {
-                      "Eastern Asia": 0.0013103641846706024,
-                      "North America": 0.009867059175674913,
-                      "Northern Europe": 0.9082580809893932,
-                      "Western Europe": 0.07903620550450899
+                      "Eastern Asia": 0.0013103643480807917,
+                      "North America": 0.009867060360378394,
+                      "Northern Europe": 0.9082580753696056,
+                      "Western Europe": 0.07903620955161975
                     },
-                    "entropy": 0.35483841378351466,
+                    "entropy": 0.3548384319179655,
                     "value": "Northern Europe"
                   }
                 }
@@ -7751,9 +7751,9 @@
                           },
                           "region": {
                             "confidence": {
-                              "North America": 1.0
+                              "North America": 0.9999999999999999
                             },
-                            "entropy": -1.000088900581841e-12,
+                            "entropy": -9.99866855976916e-13,
                             "value": "North America"
                           },
                           "submitting_lab": {
@@ -7829,9 +7829,9 @@
                           },
                           "region": {
                             "confidence": {
-                              "North America": 1.0
+                              "North America": 0.9999999999999999
                             },
-                            "entropy": -1.000088900581841e-12,
+                            "entropy": -9.99866855976916e-13,
                             "value": "North America"
                           },
                           "submitting_lab": {
@@ -7848,18 +7848,18 @@
                       "div": 29,
                       "num_date": {
                         "confidence": [
-                          2020.6839077090774,
-                          2021.0223590463352
+                          2020.694385057111,
+                          2021.0222756165754
                         ],
-                        "value": 2020.914619864495
+                        "value": 2020.914619766952
                       },
                       "region": {
                         "confidence": {
-                          "North America": 0.9843114651939561,
-                          "Northern Europe": 0.0019667487814976907,
-                          "Western Europe": 0.012944721395431968
+                          "North America": 0.9843114632807262,
+                          "Northern Europe": 0.0019667491304812264,
+                          "Western Europe": 0.012944722806610479
                         },
-                        "entropy": 0.0908323029137712,
+                        "entropy": 0.09083231252604532,
                         "value": "North America"
                       }
                     }
@@ -8141,18 +8141,18 @@
                           "div": 31,
                           "num_date": {
                             "confidence": [
-                              2020.746796429167,
-                              2021.0198836266802
+                              2020.7467023487047,
+                              2021.0197674517933
                             ],
-                            "value": 2020.918138497419
+                            "value": 2020.9181384920244
                           },
                           "region": {
                             "confidence": {
-                              "North America": 0.9960213595374329,
-                              "Northern Europe": 0.0010043168735569632,
-                              "Western Europe": 0.0025827757817709534
+                              "North America": 0.9960213588262563,
+                              "Northern Europe": 0.0010043170702952779,
+                              "Western Europe": 0.002582776213122201
                             },
-                            "entropy": 0.02997269147662654,
+                            "entropy": 0.029972696185333374,
                             "value": "North America"
                           }
                         }
@@ -8166,18 +8166,18 @@
                       "div": 29,
                       "num_date": {
                         "confidence": [
-                          2020.6877619341858,
-                          2020.9894825901347
+                          2020.6878146758688,
+                          2020.9894419877733
                         ],
-                        "value": 2020.857593873704
+                        "value": 2020.8575937632218
                       },
                       "region": {
                         "confidence": {
-                          "North America": 0.982715111355917,
-                          "Northern Europe": 0.002157172309511604,
-                          "Western Europe": 0.014301876795246854
+                          "North America": 0.9827151091673496,
+                          "Northern Europe": 0.0021571727039479825,
+                          "Western Europe": 0.014301878422903386
                         },
-                        "entropy": 0.09822724728714138,
+                        "entropy": 0.09822725802155179,
                         "value": "North America"
                       }
                     }
@@ -8191,19 +8191,19 @@
                   "div": 28,
                   "num_date": {
                     "confidence": [
-                      2020.6364000120807,
-                      2020.9759066296165
+                      2020.6538599197027,
+                      2020.980419453155
                     ],
-                    "value": 2020.8036048209074
+                    "value": 2020.7907930790345
                   },
                   "region": {
                     "confidence": {
-                      "North America": 0.8696934453795324,
-                      "Northern Europe": 0.007000609424175917,
-                      "Southern Europe": 0.0017071655947637698,
-                      "Western Europe": 0.120141365367888
+                      "North America": 0.8696934372841095,
+                      "Northern Europe": 0.007000610322999085,
+                      "Southern Europe": 0.0017071658377312397,
+                      "Western Europe": 0.1201413721057093
                     },
-                    "entropy": 0.4336985633669801,
+                    "entropy": 0.43369858431341984,
                     "value": "North America"
                   }
                 }
@@ -8359,7 +8359,7 @@
                             }
                           }
                         ],
-                        "name": "NODE_0000066",
+                        "name": "NODE_0000063",
                         "node_attrs": {
                           "clade_membership": {
                             "value": "B.1"
@@ -8367,19 +8367,19 @@
                           "div": 7,
                           "num_date": {
                             "confidence": [
-                              2020.113749288001,
-                              2020.1510876044338
+                              2020.1133554601872,
+                              2020.1502451620556
                             ],
-                            "value": 2020.1261395127162
+                            "value": 2020.1236930455484
                           },
                           "region": {
                             "confidence": {
-                              "North America": 0.7192208509408804,
-                              "Northern Europe": 0.010338192946941674,
-                              "Southern Europe": 0.1365547569653343,
-                              "Western Europe": 0.12897869398776501
+                              "North America": 0.7192208422199458,
+                              "Northern Europe": 0.01033819402102188,
+                              "Southern Europe": 0.13655476266603636,
+                              "Western Europe": 0.12897869537652115
                             },
-                            "entropy": 0.8550992333864875,
+                            "entropy": 0.8550992535834168,
                             "value": "North America"
                           }
                         }
@@ -8640,25 +8640,25 @@
                               "div": 8,
                               "num_date": {
                                 "confidence": [
-                                  2020.1357425435106,
+                                  2020.1344569573598,
                                   2020.1571038251366
                                 ],
-                                "value": 2020.1571038251366
+                                "value": 2020.1567823748535
                               },
                               "region": {
                                 "confidence": {
-                                  "North America": 0.7466611004781768,
-                                  "Northern Europe": 0.007432216011752799,
-                                  "Southern Europe": 0.002371015238027889,
-                                  "Western Europe": 0.24195387958594514
+                                  "North America": 0.7466610942168365,
+                                  "Northern Europe": 0.007432216960602781,
+                                  "Southern Europe": 0.0023710155542838993,
+                                  "Western Europe": 0.2419538843453295
                                 },
-                                "entropy": 0.6251342181196147,
+                                "entropy": 0.6251342315433648,
                                 "value": "North America"
                               }
                             }
                           }
                         ],
-                        "name": "NODE_0000067",
+                        "name": "NODE_0000064",
                         "node_attrs": {
                           "clade_membership": {
                             "value": "B.1"
@@ -8666,25 +8666,25 @@
                           "div": 7,
                           "num_date": {
                             "confidence": [
-                              2020.1136573613312,
-                              2020.143564900107
+                              2020.113444795686,
+                              2020.1423431227313
                             ],
-                            "value": 2020.1260729279268
+                            "value": 2020.1236960160086
                           },
                           "region": {
                             "confidence": {
-                              "North America": 0.8147513915280605,
-                              "Northern Europe": 0.005850752224619933,
-                              "Southern Europe": 0.004214119958237626,
-                              "Western Europe": 0.17407431093666142
+                              "North America": 0.8147513878245611,
+                              "Northern Europe": 0.005850753138023047,
+                              "Southern Europe": 0.004214120510628577,
+                              "Western Europe": 0.1740743129740888
                             },
-                            "entropy": 0.5337844753106974,
+                            "entropy": 0.5337844875367106,
                             "value": "North America"
                           }
                         }
                       }
                     ],
-                    "name": "NODE_0000064",
+                    "name": "NODE_0000060",
                     "node_attrs": {
                       "clade_membership": {
                         "value": "B.1"
@@ -8692,19 +8692,19 @@
                       "div": 7,
                       "num_date": {
                         "confidence": [
-                          2020.1097909857288,
-                          2020.134520105056
+                          2020.106886947325,
+                          2020.1354333883928
                         ],
-                        "value": 2020.1172845272783
+                        "value": 2020.1232448911835
                       },
                       "region": {
                         "confidence": {
-                          "North America": 0.6483218367232418,
-                          "Northern Europe": 0.011207286410976456,
-                          "Southern Europe": 0.02790620341668756,
-                          "Western Europe": 0.3097999621642088
+                          "North America": 0.6483218288729877,
+                          "Northern Europe": 0.011207287873152665,
+                          "Southern Europe": 0.02790620544520418,
+                          "Western Europe": 0.30979996612854743
                         },
-                        "entropy": 0.8150973708541135,
+                        "entropy": 0.8150973889209103,
                         "value": "North America"
                       }
                     }
@@ -8942,61 +8942,6 @@
                                 "branch_attrs": {
                                   "mutations": {}
                                 },
-                                "name": "Belgium/rega-03031135/2020",
-                                "node_attrs": {
-                                  "author": {
-                                    "author": "Tony Wawina-Bokalanga et al",
-                                    "value": "Tony Wawina-Bokalanga et al"
-                                  },
-                                  "category": {
-                                    "value": "Other variants"
-                                  },
-                                  "clade_membership": {
-                                    "value": "B.1"
-                                  },
-                                  "country": {
-                                    "value": "Belgium"
-                                  },
-                                  "div": 8,
-                                  "division": {
-                                    "value": "Belgium"
-                                  },
-                                  "epiweek": {
-                                    "value": "2020_EW10"
-                                  },
-                                  "location": {
-                                    "value": "Belgium"
-                                  },
-                                  "num_date": {
-                                    "confidence": [
-                                      2020.1707650273224,
-                                      2020.1707650273224
-                                    ],
-                                    "value": 2020.1707650273224
-                                  },
-                                  "originating_lab": {
-                                    "value": "UZ Leuven, National Reference Laboratory for Coronaviruses, Laboratory Medicine, Leuven, Belgium"
-                                  },
-                                  "pango_lineage": {
-                                    "value": "B.1.1"
-                                  },
-                                  "region": {
-                                    "confidence": {
-                                      "Western Europe": 1.0
-                                    },
-                                    "entropy": -1.000088900581841e-12,
-                                    "value": "Western Europe"
-                                  },
-                                  "submitting_lab": {
-                                    "value": "KU Leuven, Rega Institute, Clinical and Epidemiological Virology"
-                                  },
-                                  "url": "https://www.gisaid.org"
-                                }
-                              },
-                              {
-                                "branch_attrs": {
-                                  "mutations": {}
-                                },
                                 "name": "Netherlands/ZuidHolland_1/2020",
                                 "node_attrs": {
                                   "author": {
@@ -9049,9 +8994,64 @@
                                   },
                                   "url": "https://www.gisaid.org"
                                 }
+                              },
+                              {
+                                "branch_attrs": {
+                                  "mutations": {}
+                                },
+                                "name": "Belgium/rega-03031135/2020",
+                                "node_attrs": {
+                                  "author": {
+                                    "author": "Tony Wawina-Bokalanga et al",
+                                    "value": "Tony Wawina-Bokalanga et al"
+                                  },
+                                  "category": {
+                                    "value": "Other variants"
+                                  },
+                                  "clade_membership": {
+                                    "value": "B.1"
+                                  },
+                                  "country": {
+                                    "value": "Belgium"
+                                  },
+                                  "div": 8,
+                                  "division": {
+                                    "value": "Belgium"
+                                  },
+                                  "epiweek": {
+                                    "value": "2020_EW10"
+                                  },
+                                  "location": {
+                                    "value": "Belgium"
+                                  },
+                                  "num_date": {
+                                    "confidence": [
+                                      2020.1707650273224,
+                                      2020.1707650273224
+                                    ],
+                                    "value": 2020.1707650273224
+                                  },
+                                  "originating_lab": {
+                                    "value": "UZ Leuven, National Reference Laboratory for Coronaviruses, Laboratory Medicine, Leuven, Belgium"
+                                  },
+                                  "pango_lineage": {
+                                    "value": "B.1.1"
+                                  },
+                                  "region": {
+                                    "confidence": {
+                                      "Western Europe": 1.0
+                                    },
+                                    "entropy": -1.000088900581841e-12,
+                                    "value": "Western Europe"
+                                  },
+                                  "submitting_lab": {
+                                    "value": "KU Leuven, Rega Institute, Clinical and Epidemiological Virology"
+                                  },
+                                  "url": "https://www.gisaid.org"
+                                }
                               }
                             ],
-                            "name": "NODE_0000074",
+                            "name": "NODE_0000068",
                             "node_attrs": {
                               "clade_membership": {
                                 "value": "B.1"
@@ -9059,18 +9059,18 @@
                               "div": 8,
                               "num_date": {
                                 "confidence": [
-                                  2020.136988697259,
+                                  2020.1370830147368,
                                   2020.1680327868853
                                 ],
-                                "value": 2020.1575295597595
+                                "value": 2020.1577457150495
                               },
                               "region": {
                                 "confidence": {
-                                  "North America": 0.0024820870335981156,
-                                  "Northern Europe": 0.00897497488116462,
-                                  "Western Europe": 0.9878226578849232
+                                  "North America": 0.0024820875090018767,
+                                  "Northern Europe": 0.008974976208414821,
+                                  "Western Europe": 0.9878226559324057
                                 },
-                                "entropy": 0.07555903256570427,
+                                "entropy": 0.0755590429597135,
                                 "value": "Western Europe"
                               }
                             }
@@ -9084,18 +9084,18 @@
                           "div": 8,
                           "num_date": {
                             "confidence": [
-                              2020.1159010130768,
-                              2020.160419988442
+                              2020.1069855353353,
+                              2020.1526634212303
                             ],
-                            "value": 2020.1265300833481
+                            "value": 2020.148126720677
                           },
                           "region": {
                             "confidence": {
-                              "North America": 0.004826733233999999,
-                              "Northern Europe": 0.11675094611883322,
-                              "Western Europe": 0.8783286822912318
+                              "North America": 0.004826733892869485,
+                              "Northern Europe": 0.11675095578228836,
+                              "Western Europe": 0.8783286719485227
                             },
-                            "entropy": 0.39140201522449947,
+                            "entropy": 0.3914020383614072,
                             "value": "Western Europe"
                           }
                         }
@@ -9349,7 +9349,7 @@
                                     }
                                   }
                                 ],
-                                "name": "NODE_0000077",
+                                "name": "NODE_0000075",
                                 "node_attrs": {
                                   "clade_membership": {
                                     "value": "B.1"
@@ -9357,18 +9357,18 @@
                                   "div": 7,
                                   "num_date": {
                                     "confidence": [
-                                      2020.1228757838912,
+                                      2020.1230302906924,
                                       2020.1434426229507
                                     ],
-                                    "value": 2020.1420600366391
+                                    "value": 2020.1413935252272
                                   },
                                   "region": {
                                     "confidence": {
-                                      "North America": 0.9771614786149514,
-                                      "Northern Europe": 0.0028193419409985043,
-                                      "Western Europe": 0.018617777800865914
+                                      "North America": 0.9771614762432512,
+                                      "Northern Europe": 0.0028193424222503574,
+                                      "Western Europe": 0.018617779438510507
                                     },
-                                    "entropy": 0.12470106833686308,
+                                    "entropy": 0.12470107970144728,
                                     "value": "North America"
                                   }
                                 }
@@ -9641,7 +9641,7 @@
                                         }
                                       }
                                     ],
-                                    "name": "NODE_0000057",
+                                    "name": "NODE_0000062",
                                     "node_attrs": {
                                       "clade_membership": {
                                         "value": "P.1"
@@ -9649,25 +9649,25 @@
                                       "div": 36,
                                       "num_date": {
                                         "confidence": [
-                                          2021.1194796848222,
+                                          2021.1186222925933,
                                           2021.168493150685
                                         ],
                                         "value": 2021.155008690716
                                       },
                                       "region": {
                                         "confidence": {
-                                          "North America": 0.9841357131231604,
-                                          "Northern Europe": 0.0027360937054849983,
-                                          "South America": 0.0024707865621304884,
-                                          "Western Europe": 0.009454886653221018
+                                          "North America": 0.9841357111180791,
+                                          "Northern Europe": 0.002736094174891922,
+                                          "South America": 0.002470786902089579,
+                                          "Western Europe": 0.009454887617244308
                                         },
-                                        "entropy": 0.1006614645240494,
+                                        "entropy": 0.10066147570912003,
                                         "value": "North America"
                                       }
                                     }
                                   }
                                 ],
-                                "name": "NODE_0000056",
+                                "name": "NODE_0000061",
                                 "node_attrs": {
                                   "clade_membership": {
                                     "value": "B.1"
@@ -9675,25 +9675,25 @@
                                   "div": 8,
                                   "num_date": {
                                     "confidence": [
-                                      2020.1403532176425,
+                                      2020.1403175765702,
                                       2020.1762295081967
                                     ],
-                                    "value": 2020.1593579466366
+                                    "value": 2020.159358020164
                                   },
                                   "region": {
                                     "confidence": {
-                                      "North America": 0.832075624809701,
-                                      "Northern Europe": 0.014256092021873624,
-                                      "South America": 0.06575304376723753,
-                                      "Western Europe": 0.0781365062815273
+                                      "North America": 0.8320756146804443,
+                                      "Northern Europe": 0.014256093656864572,
+                                      "South America": 0.06575304805390988,
+                                      "Western Europe": 0.07813650925928524
                                     },
-                                    "entropy": 0.6532091205786561,
+                                    "entropy": 0.6532091526996506,
                                     "value": "North America"
                                   }
                                 }
                               }
                             ],
-                            "name": "NODE_0000076",
+                            "name": "NODE_0000074",
                             "node_attrs": {
                               "clade_membership": {
                                 "value": "B.1"
@@ -9701,25 +9701,25 @@
                               "div": 7,
                               "num_date": {
                                 "confidence": [
-                                  2020.1152805689514,
+                                  2020.1154784162852,
                                   2020.1408714335498
                                 ],
-                                "value": 2020.1318585676206
+                                "value": 2020.130855989371
                               },
                               "region": {
                                 "confidence": {
-                                  "North America": 0.7957117415283129,
-                                  "Northern Europe": 0.012949665496056965,
-                                  "South America": 0.008680105026941743,
-                                  "Western Europe": 0.17703073032275618
+                                  "North America": 0.7957117321819952,
+                                  "Northern Europe": 0.012949667153867389,
+                                  "South America": 0.00868010575506466,
+                                  "Western Europe": 0.17703073650114434
                                 },
-                                "entropy": 0.6231968188883177,
+                                "entropy": 0.6231968433427372,
                                 "value": "North America"
                               }
                             }
                           }
                         ],
-                        "name": "NODE_0000075",
+                        "name": "NODE_0000069",
                         "node_attrs": {
                           "clade_membership": {
                             "value": "B.1"
@@ -9727,25 +9727,25 @@
                           "div": 7,
                           "num_date": {
                             "confidence": [
-                              2020.1130764503134,
-                              2020.134055016471
+                              2020.112545729355,
+                              2020.1338892432473
                             ],
-                            "value": 2020.123846923608
+                            "value": 2020.1237617298468
                           },
                           "region": {
                             "confidence": {
-                              "North America": 0.1356602853433936,
-                              "Northern Europe": 0.01389400258521919,
-                              "Southern Europe": 0.0016523005805957572,
-                              "Western Europe": 0.8467931580145927
+                              "North America": 0.13566029219240777,
+                              "Northern Europe": 0.013894004501424886,
+                              "Southern Europe": 0.0016523008328647795,
+                              "Western Europe": 0.8467931486695113
                             },
-                            "entropy": 0.4973571821458107,
+                            "entropy": 0.49735720664197486,
                             "value": "Western Europe"
                           }
                         }
                       }
                     ],
-                    "name": "NODE_0000069",
+                    "name": "NODE_0000066",
                     "node_attrs": {
                       "clade_membership": {
                         "value": "B.1"
@@ -9753,25 +9753,25 @@
                       "div": 7,
                       "num_date": {
                         "confidence": [
-                          2020.1055596309482,
-                          2020.1309309103087
+                          2020.10148786478,
+                          2020.13109500575
                         ],
-                        "value": 2020.1176033007332
+                        "value": 2020.11697011372
                       },
                       "region": {
                         "confidence": {
-                          "North America": 0.07568373735744548,
-                          "Northern Europe": 0.028303597373815464,
-                          "Southern Europe": 0.0010896339258066024,
-                          "Western Europe": 0.8938675642311701
+                          "North America": 0.0756837420374856,
+                          "Northern Europe": 0.028303601197959265,
+                          "Southern Europe": 0.0010896341436207318,
+                          "Western Europe": 0.8938675552917819
                         },
-                        "entropy": 0.4127394107556033,
+                        "entropy": 0.41273943876703556,
                         "value": "Western Europe"
                       }
                     }
                   }
                 ],
-                "name": "NODE_0000063",
+                "name": "NODE_0000059",
                 "node_attrs": {
                   "clade_membership": {
                     "value": "B.1"
@@ -9779,19 +9779,19 @@
                   "div": 7,
                   "num_date": {
                     "confidence": [
-                      2020.0874252040385,
-                      2020.1267112476357
+                      2020.0828218873112,
+                      2020.1270109602817
                     ],
-                    "value": 2020.1168698475049
+                    "value": 2020.1154362227908
                   },
                   "region": {
                     "confidence": {
-                      "North America": 0.12334311280989417,
-                      "Northern Europe": 0.012604006059050108,
-                      "Southern Europe": 0.0036562975876731386,
-                      "Western Europe": 0.8588640857373075
+                      "North America": 0.12334311910684448,
+                      "Northern Europe": 0.012604007827358725,
+                      "Southern Europe": 0.00365629816182612,
+                      "Western Europe": 0.8588640768440896
                     },
-                    "entropy": 0.4766844960593205,
+                    "entropy": 0.4766845208782984,
                     "value": "Western Europe"
                   }
                 }
@@ -9805,18 +9805,18 @@
               "div": 7,
               "num_date": {
                 "confidence": [
-                  2019.9852286429016,
-                  2020.1240169799635
+                  2020.0391190032392,
+                  2020.1243314223775
                 ],
-                "value": 2020.117277984005
+                "value": 2020.1172780128102
               },
               "region": {
                 "confidence": {
-                  "North America": 0.0062505212485855595,
-                  "Southern Europe": 0.001390669565759129,
-                  "Western Europe": 0.9919637488015867
+                  "North America": 0.006250522050602419,
+                  "Southern Europe": 0.001390669816979648,
+                  "Western Europe": 0.9919637476570405
                 },
-                "entropy": 0.051983310277904704,
+                "entropy": 0.05198331671110236,
                 "value": "Western Europe"
               }
             }
@@ -10029,9 +10029,9 @@
                           },
                           "region": {
                             "confidence": {
-                              "Western Asia": 0.9999999999999999
+                              "Western Asia": 1.0
                             },
-                            "entropy": -9.99866855976916e-13,
+                            "entropy": -1.000088900581841e-12,
                             "value": "Western Asia"
                           },
                           "submitting_lab": {
@@ -10199,16 +10199,16 @@
                           "div": 8,
                           "num_date": {
                             "confidence": [
-                              2020.0608164697587,
+                              2020.0609011504077,
                               2020.127049180328
                             ],
-                            "value": 2020.0956718794691
+                            "value": 2020.0956718697055
                           },
                           "region": {
                             "confidence": {
-                              "Western Asia": 0.9989786054161783
+                              "Western Asia": 0.998978605268585
                             },
-                            "entropy": 0.009991338099235985,
+                            "entropy": 0.009991339415975216,
                             "value": "Western Asia"
                           }
                         }
@@ -10222,19 +10222,19 @@
                       "div": 7,
                       "num_date": {
                         "confidence": [
-                          2020.0428864215764,
-                          2020.1167873384238
+                          2020.0428995135205,
+                          2020.1168210823057
                         ],
-                        "value": 2020.075330790903
+                        "value": 2020.0750081489439
                       },
                       "region": {
                         "confidence": {
-                          "Eastern Asia": 0.0023897352334462225,
-                          "North America": 0.012626751454148388,
-                          "Western Asia": 0.9719233450436168,
-                          "Western Europe": 0.007679509975710446
+                          "Eastern Asia": 0.0023897354939732933,
+                          "North America": 0.01262675213793267,
+                          "Western Asia": 0.971923343090289,
+                          "Western Europe": 0.007679510347301185
                         },
-                        "entropy": 0.1717159816971384,
+                        "entropy": 0.17171599242372998,
                         "value": "Western Asia"
                       }
                     }
@@ -10248,19 +10248,19 @@
                   "div": 6,
                   "num_date": {
                     "confidence": [
-                      2020.0259882892203,
-                      2020.1082698571824
+                      2020.0257827864295,
+                      2020.1082795128484
                     ],
-                    "value": 2020.0587056460274
+                    "value": 2020.0591427932343
                   },
                   "region": {
                     "confidence": {
-                      "North America": 0.5076496356835516,
-                      "Northern Europe": 0.02892865472054598,
-                      "Western Asia": 0.10116384331831188,
-                      "Western Europe": 0.33420451920321614
+                      "North America": 0.5076496337909688,
+                      "Northern Europe": 0.028928656612921388,
+                      "Western Asia": 0.10116384477630726,
+                      "Western Europe": 0.3342045157354821
                     },
-                    "entropy": 1.19073386680728,
+                    "entropy": 1.190733882347066,
                     "value": "North America"
                   }
                 }
@@ -10401,7 +10401,7 @@
                         }
                       }
                     ],
-                    "name": "NODE_0000085",
+                    "name": "NODE_0000084",
                     "node_attrs": {
                       "clade_membership": {
                         "value": "B.1"
@@ -10409,19 +10409,19 @@
                       "div": 5,
                       "num_date": {
                         "confidence": [
-                          2020.0803436030349,
-                          2020.1501412339503
+                          2020.0797627433076,
+                          2020.1502641931727
                         ],
-                        "value": 2020.1202099835257
+                        "value": 2020.120209985634
                       },
                       "region": {
                         "confidence": {
-                          "North America": 0.48569432248179734,
-                          "Northern Europe": 0.013673852946093492,
-                          "Southern Europe": 0.0018407987339712358,
-                          "Western Europe": 0.4969519968089225
+                          "North America": 0.48569432252852585,
+                          "Northern Europe": 0.013673854670829749,
+                          "Southern Europe": 0.0018407989835332794,
+                          "Western Europe": 0.4969519945095338
                         },
-                        "entropy": 0.7831093767495596,
+                        "entropy": 0.783109386364897,
                         "value": "Western Europe"
                       }
                     }
@@ -10496,9 +10496,9 @@
                           },
                           "region": {
                             "confidence": {
-                              "North America": 1.0
+                              "North America": 0.9999999999999999
                             },
-                            "entropy": -1.000088900581841e-12,
+                            "entropy": -9.99866855976916e-13,
                             "value": "North America"
                           },
                           "submitting_lab": {
@@ -10580,6 +10580,79 @@
                       {
                         "branch_attrs": {
                           "labels": {
+                            "aa": "ORF10: M1V; ORF1a: A541V; S: D215H"
+                          },
+                          "mutations": {
+                            "ORF10": [
+                              "M1V"
+                            ],
+                            "ORF1a": [
+                              "A541V"
+                            ],
+                            "S": [
+                              "D215H"
+                            ],
+                            "nuc": [
+                              "C1887T",
+                              "G22205C",
+                              "A29558G"
+                            ]
+                          }
+                        },
+                        "name": "USA/CA-ALSR-0515-SAN/2020",
+                        "node_attrs": {
+                          "author": {
+                            "author": "SEARCH Alliance San Diego with David Pride et al",
+                            "value": "SEARCH Alliance San Diego with David Pride et al"
+                          },
+                          "category": {
+                            "value": "Other variants"
+                          },
+                          "clade_membership": {
+                            "value": "B.1"
+                          },
+                          "country": {
+                            "value": "USA-West"
+                          },
+                          "div": 9,
+                          "division": {
+                            "value": "California"
+                          },
+                          "epiweek": {
+                            "value": "2020_EW10"
+                          },
+                          "location": {
+                            "value": "California"
+                          },
+                          "num_date": {
+                            "confidence": [
+                              2020.1734972677596,
+                              2020.1734972677596
+                            ],
+                            "value": 2020.1734972677596
+                          },
+                          "originating_lab": {
+                            "value": "UC San Diego Center for Advanced Laboratory Medicine"
+                          },
+                          "pango_lineage": {
+                            "value": "B.1.166"
+                          },
+                          "region": {
+                            "confidence": {
+                              "North America": 0.9999999999999999
+                            },
+                            "entropy": -9.99866855976916e-13,
+                            "value": "North America"
+                          },
+                          "submitting_lab": {
+                            "value": "Andersen lab at Scripps Research"
+                          },
+                          "url": "https://www.gisaid.org"
+                        }
+                      },
+                      {
+                        "branch_attrs": {
+                          "labels": {
                             "aa": "ORF1a: T346I; ORF1b: T1730I"
                           },
                           "mutations": {
@@ -10642,79 +10715,6 @@
                           },
                           "submitting_lab": {
                             "value": "Albertsen lab, Department of Chemistry and Bioscience, Aalborg University, Denmark"
-                          },
-                          "url": "https://www.gisaid.org"
-                        }
-                      },
-                      {
-                        "branch_attrs": {
-                          "labels": {
-                            "aa": "ORF10: M1V; ORF1a: A541V; S: D215H"
-                          },
-                          "mutations": {
-                            "ORF10": [
-                              "M1V"
-                            ],
-                            "ORF1a": [
-                              "A541V"
-                            ],
-                            "S": [
-                              "D215H"
-                            ],
-                            "nuc": [
-                              "C1887T",
-                              "G22205C",
-                              "A29558G"
-                            ]
-                          }
-                        },
-                        "name": "USA/CA-ALSR-0515-SAN/2020",
-                        "node_attrs": {
-                          "author": {
-                            "author": "SEARCH Alliance San Diego with David Pride et al",
-                            "value": "SEARCH Alliance San Diego with David Pride et al"
-                          },
-                          "category": {
-                            "value": "Other variants"
-                          },
-                          "clade_membership": {
-                            "value": "B.1"
-                          },
-                          "country": {
-                            "value": "USA-West"
-                          },
-                          "div": 9,
-                          "division": {
-                            "value": "California"
-                          },
-                          "epiweek": {
-                            "value": "2020_EW10"
-                          },
-                          "location": {
-                            "value": "California"
-                          },
-                          "num_date": {
-                            "confidence": [
-                              2020.1734972677596,
-                              2020.1734972677596
-                            ],
-                            "value": 2020.1734972677596
-                          },
-                          "originating_lab": {
-                            "value": "UC San Diego Center for Advanced Laboratory Medicine"
-                          },
-                          "pango_lineage": {
-                            "value": "B.1.166"
-                          },
-                          "region": {
-                            "confidence": {
-                              "North America": 1.0
-                            },
-                            "entropy": -1.000088900581841e-12,
-                            "value": "North America"
-                          },
-                          "submitting_lab": {
-                            "value": "Andersen lab at Scripps Research"
                           },
                           "url": "https://www.gisaid.org"
                         }
@@ -10922,7 +10922,7 @@
                             }
                           }
                         ],
-                        "name": "NODE_0000099",
+                        "name": "NODE_0000101",
                         "node_attrs": {
                           "clade_membership": {
                             "value": "B.1"
@@ -10930,19 +10930,19 @@
                           "div": 7,
                           "num_date": {
                             "confidence": [
-                              2020.1210897569688,
-                              2020.1498733390706
+                              2020.121507574539,
+                              2020.1495841175629
                             ],
-                            "value": 2020.12589016051
+                            "value": 2020.1271201253237
                           },
                           "region": {
                             "confidence": {
-                              "North America": 0.3743779472329598,
-                              "Northern Europe": 0.08230087740970743,
-                              "Western Africa": 0.11813055598580337,
-                              "Western Europe": 0.39833601901151444
+                              "North America": 0.3743779419455388,
+                              "Northern Europe": 0.08230088256088036,
+                              "Western Africa": 0.11813055791200831,
+                              "Western Europe": 0.3983360153139969
                             },
-                            "entropy": 1.3350426286506365,
+                            "entropy": 1.3350426472820858,
                             "value": "Western Europe"
                           }
                         }
@@ -11248,9 +11248,9 @@
                                       },
                                       "region": {
                                         "confidence": {
-                                          "North America": 0.9999999999999999
+                                          "North America": 1.0
                                         },
-                                        "entropy": -9.99866855976916e-13,
+                                        "entropy": -1.000088900581841e-12,
                                         "value": "North America"
                                       },
                                       "submitting_lab": {
@@ -11334,9 +11334,9 @@
                                       },
                                       "region": {
                                         "confidence": {
-                                          "North America": 0.9999999999999999
+                                          "North America": 1.0
                                         },
-                                        "entropy": -9.99866855976916e-13,
+                                        "entropy": -1.000088900581841e-12,
                                         "value": "North America"
                                       },
                                       "submitting_lab": {
@@ -11345,7 +11345,7 @@
                                     }
                                   }
                                 ],
-                                "name": "NODE_0000107",
+                                "name": "NODE_0000109",
                                 "node_attrs": {
                                   "clade_membership": {
                                     "value": "B.1"
@@ -11353,23 +11353,23 @@
                                   "div": 13,
                                   "num_date": {
                                     "confidence": [
-                                      2019.8462675562191,
-                                      2020.8895410137516
+                                      2019.84634381642,
+                                      2020.88961467612
                                     ],
-                                    "value": 2020.6556226478676
+                                    "value": 2020.6556226391228
                                   },
                                   "region": {
                                     "confidence": {
-                                      "North America": 0.9973751675209924,
-                                      "Western Europe": 0.001356750947022514
+                                      "North America": 0.9973751670187241,
+                                      "Western Europe": 0.001356751196026573
                                     },
-                                    "entropy": 0.021305802197304956,
+                                    "entropy": 0.021305805792347747,
                                     "value": "North America"
                                   }
                                 }
                               }
                             ],
-                            "name": "NODE_0000106",
+                            "name": "NODE_0000108",
                             "node_attrs": {
                               "clade_membership": {
                                 "value": "B.1"
@@ -11377,24 +11377,24 @@
                               "div": 12,
                               "num_date": {
                                 "confidence": [
-                                  2019.8712690881803,
-                                  2020.8002885671056
+                                  2019.8705552690124,
+                                  2020.7987949255778
                                 ],
-                                "value": 2020.5180958104238
+                                "value": 2020.5218539133143
                               },
                               "region": {
                                 "confidence": {
-                                  "North America": 0.9957944984414479,
-                                  "Northern Europe": 0.002048160450040108,
-                                  "Western Europe": 0.0017557330061808846
+                                  "North America": 0.9957944976143804,
+                                  "Northern Europe": 0.0020481608510995075,
+                                  "Western Europe": 0.001755733344561445
                                 },
-                                "entropy": 0.03179209710204085,
+                                "entropy": 0.03179210255534713,
                                 "value": "North America"
                               }
                             }
                           }
                         ],
-                        "name": "NODE_0000105",
+                        "name": "NODE_0000107",
                         "node_attrs": {
                           "clade_membership": {
                             "value": "B.1"
@@ -11402,18 +11402,18 @@
                           "div": 8,
                           "num_date": {
                             "confidence": [
-                              2020.1135390633488,
-                              2020.174434799385
+                              2020.1143478278925,
+                              2020.1752763183183
                             ],
-                            "value": 2020.144764971692
+                            "value": 2020.1431602440623
                           },
                           "region": {
                             "confidence": {
-                              "North America": 0.9832860137550715,
-                              "Northern Europe": 0.012992958339109054,
-                              "Western Europe": 0.003080211740272554
+                              "North America": 0.9832860112679479,
+                              "Northern Europe": 0.012992960154330619,
+                              "Western Europe": 0.003080212279308433
                             },
-                            "entropy": 0.09662338350149345,
+                            "entropy": 0.09662339566775276,
                             "value": "North America"
                           }
                         }
@@ -11747,9 +11747,9 @@
                                               },
                                               "region": {
                                                 "confidence": {
-                                                  "Northern Europe": 1.0
+                                                  "Northern Europe": 0.9999999999999999
                                                 },
-                                                "entropy": -1.000088900581841e-12,
+                                                "entropy": -9.99866855976916e-13,
                                                 "value": "Northern Europe"
                                               },
                                               "submitting_lab": {
@@ -11819,9 +11819,9 @@
                                                   },
                                                   "region": {
                                                     "confidence": {
-                                                      "Western Europe": 0.9999999999999999
+                                                      "Western Europe": 1.0
                                                     },
-                                                    "entropy": -9.99866855976916e-13,
+                                                    "entropy": -1.000088900581841e-12,
                                                     "value": "Western Europe"
                                                   },
                                                   "submitting_lab": {
@@ -12108,18 +12108,18 @@
                                                           "div": 18,
                                                           "num_date": {
                                                             "confidence": [
-                                                              2020.8026618505212,
-                                                              2021.0681078373077
+                                                              2020.8029089926958,
+                                                              2021.0680734134737
                                                             ],
-                                                            "value": 2020.9913347623774
+                                                            "value": 2020.9913348249863
                                                           },
                                                           "region": {
                                                             "confidence": {
-                                                              "North America": 0.9907167732270971,
-                                                              "Northern Europe": 0.005237296391897578,
-                                                              "Western Europe": 0.003479559940312948
+                                                              "North America": 0.9907167718347677,
+                                                              "Northern Europe": 0.005237297110222957,
+                                                              "Western Europe": 0.0034795604962268843
                                                             },
-                                                            "entropy": 0.06159700192059585,
+                                                            "entropy": 0.06159700990495007,
                                                             "value": "North America"
                                                           }
                                                         }
@@ -12301,9 +12301,9 @@
                                                                       },
                                                                       "region": {
                                                                         "confidence": {
-                                                                          "North America": 1.0
+                                                                          "North America": 0.9999999999999999
                                                                         },
-                                                                        "entropy": -1.000088900581841e-12,
+                                                                        "entropy": -9.99866855976916e-13,
                                                                         "value": "North America"
                                                                       },
                                                                       "submitting_lab": {
@@ -12372,9 +12372,9 @@
                                                                       },
                                                                       "region": {
                                                                         "confidence": {
-                                                                          "North America": 1.0
+                                                                          "North America": 0.9999999999999999
                                                                         },
-                                                                        "entropy": -1.000088900581841e-12,
+                                                                        "entropy": -9.99866855976916e-13,
                                                                         "value": "North America"
                                                                       },
                                                                       "submitting_lab": {
@@ -12391,17 +12391,17 @@
                                                                   "div": 23,
                                                                   "num_date": {
                                                                     "confidence": [
-                                                                      2020.8537112651957,
-                                                                      2021.010816610371
+                                                                      2020.8534493834782,
+                                                                      2021.010716752858
                                                                     ],
                                                                     "value": 2020.9626076013724
                                                                   },
                                                                   "region": {
                                                                     "confidence": {
-                                                                      "North America": 0.997425924740831,
-                                                                      "Western Europe": 0.0013589407892425404
+                                                                      "North America": 0.9974259242512498,
+                                                                      "Western Europe": 0.0013589410385312238
                                                                     },
-                                                                    "entropy": 0.02094459949041764,
+                                                                    "entropy": 0.020944603004976026,
                                                                     "value": "North America"
                                                                   }
                                                                 }
@@ -12415,18 +12415,18 @@
                                                               "div": 15,
                                                               "num_date": {
                                                                 "confidence": [
-                                                                  2020.5012593125339,
-                                                                  2020.911215310726
+                                                                  2020.4979349883113,
+                                                                  2020.909188449646
                                                                 ],
-                                                                "value": 2020.6738140882537
+                                                                "value": 2020.681053884517
                                                               },
                                                               "region": {
                                                                 "confidence": {
-                                                                  "North America": 0.9963408539195809,
-                                                                  "Northern Europe": 0.0014381668827799317,
-                                                                  "Western Europe": 0.0018300048814497288
+                                                                  "North America": 0.9963408531958219,
+                                                                  "Northern Europe": 0.0014381671683605653,
+                                                                  "Western Europe": 0.0018300052343132856
                                                                 },
-                                                                "entropy": 0.028277580658758336,
+                                                                "entropy": 0.02827758555440977,
                                                                 "value": "North America"
                                                               }
                                                             }
@@ -12551,9 +12551,9 @@
                                                                   },
                                                                   "region": {
                                                                     "confidence": {
-                                                                      "North America": 1.0
+                                                                      "North America": 0.9999999999999999
                                                                     },
-                                                                    "entropy": -1.000088900581841e-12,
+                                                                    "entropy": -9.99866855976916e-13,
                                                                     "value": "North America"
                                                                   },
                                                                   "submitting_lab": {
@@ -12911,17 +12911,17 @@
                                                                       "div": 18,
                                                                       "num_date": {
                                                                         "confidence": [
-                                                                          2021.0629368713414,
+                                                                          2021.063083755737,
                                                                           2021.154794520548
                                                                         ],
                                                                         "value": 2021.1446811755713
                                                                       },
                                                                       "region": {
                                                                         "confidence": {
-                                                                          "North America": 0.997750807073375,
-                                                                          "Western Europe": 0.0011840504009596735
+                                                                          "North America": 0.9977508066643391,
+                                                                          "Western Europe": 0.0011840506086551303
                                                                         },
-                                                                        "entropy": 0.01865245443621698,
+                                                                        "entropy": 0.018652457438976214,
                                                                         "value": "North America"
                                                                       }
                                                                     }
@@ -12935,16 +12935,16 @@
                                                                   "div": 12,
                                                                   "num_date": {
                                                                     "confidence": [
-                                                                      2020.561948062283,
-                                                                      2021.0406343401874
+                                                                      2020.5602534178543,
+                                                                      2021.0389832951178
                                                                     ],
-                                                                    "value": 2020.7780806868047
+                                                                    "value": 2020.7825328202052
                                                                   },
                                                                   "region": {
                                                                     "confidence": {
-                                                                      "North America": 0.9997118329883862
+                                                                      "North America": 0.999711832915229
                                                                     },
-                                                                    "entropy": 0.0028905011357872575,
+                                                                    "entropy": 0.0028905017984436113,
                                                                     "value": "North America"
                                                                   }
                                                                 }
@@ -12958,24 +12958,24 @@
                                                               "div": 7,
                                                               "num_date": {
                                                                 "confidence": [
-                                                                  2020.1443790413462,
-                                                                  2020.7634471789825
+                                                                  2020.1446211272198,
+                                                                  2020.7654667268828
                                                                 ],
-                                                                "value": 2020.1755611871813
+                                                                "value": 2020.1755241954538
                                                               },
                                                               "region": {
                                                                 "confidence": {
-                                                                  "North America": 0.9966429281722106,
-                                                                  "Northern Europe": 0.0013209417425107106,
-                                                                  "Western Europe": 0.0016681698550014854
+                                                                  "North America": 0.9966429275214377,
+                                                                  "Northern Europe": 0.0013209419991300386,
+                                                                  "Western Europe": 0.0016681701704624604
                                                                 },
-                                                                "entropy": 0.026265297466546753,
+                                                                "entropy": 0.02626530193151933,
                                                                 "value": "North America"
                                                               }
                                                             }
                                                           }
                                                         ],
-                                                        "name": "NODE_0000108",
+                                                        "name": "NODE_0000104",
                                                         "node_attrs": {
                                                           "clade_membership": {
                                                             "value": "B.1"
@@ -12983,24 +12983,24 @@
                                                           "div": 6,
                                                           "num_date": {
                                                             "confidence": [
-                                                              2020.1155614206941,
-                                                              2020.620169546712
+                                                              2020.1155141527897,
+                                                              2020.6313073942677
                                                             ],
-                                                            "value": 2020.1673038571357
+                                                            "value": 2020.1675445171263
                                                           },
                                                           "region": {
                                                             "confidence": {
-                                                              "North America": 0.988690412943803,
-                                                              "Northern Europe": 0.006341279469634037,
-                                                              "Western Europe": 0.004324216923185219
+                                                              "North America": 0.988690411120022,
+                                                              "Northern Europe": 0.006341280412496018,
+                                                              "Western Europe": 0.004324217663281184
                                                             },
-                                                            "entropy": 0.07263979112425183,
+                                                            "entropy": 0.07263980116718917,
                                                             "value": "North America"
                                                           }
                                                         }
                                                       }
                                                     ],
-                                                    "name": "NODE_0000103",
+                                                    "name": "NODE_0000102",
                                                     "node_attrs": {
                                                       "clade_membership": {
                                                         "value": "B.1"
@@ -13008,24 +13008,24 @@
                                                       "div": 6,
                                                       "num_date": {
                                                         "confidence": [
-                                                          2020.117118905651,
-                                                          2020.5072215411021
+                                                          2020.117147557472,
+                                                          2020.628936913854
                                                         ],
-                                                        "value": 2020.1607600390168
+                                                        "value": 2020.1606338908846
                                                       },
                                                       "region": {
                                                         "confidence": {
-                                                          "North America": 0.9269385823323548,
-                                                          "Northern Europe": 0.05170304125506089,
-                                                          "Western Europe": 0.01927138102605084
+                                                          "North America": 0.9269385762400139,
+                                                          "Northern Europe": 0.05170304504353214,
+                                                          "Western Europe": 0.019271382987899446
                                                         },
-                                                        "entropy": 0.3160443808540091,
+                                                        "entropy": 0.31604440206174716,
                                                         "value": "North America"
                                                       }
                                                     }
                                                   }
                                                 ],
-                                                "name": "NODE_0000102",
+                                                "name": "NODE_0000100",
                                                 "node_attrs": {
                                                   "clade_membership": {
                                                     "value": "B.1"
@@ -13033,25 +13033,25 @@
                                                   "div": 6,
                                                   "num_date": {
                                                     "confidence": [
-                                                      2020.1170165255162,
-                                                      2020.1758650227396
+                                                      2020.1166794843798,
+                                                      2020.173026625983
                                                     ],
-                                                    "value": 2020.153229736441
+                                                    "value": 2020.1534230733025
                                                   },
                                                   "region": {
                                                     "confidence": {
-                                                      "North America": 0.40409777946855074,
-                                                      "Northern Europe": 0.48470839237791086,
-                                                      "Southern Europe": 0.0018426248749990432,
-                                                      "Western Europe": 0.10576531433719502
+                                                      "North America": 0.40409777397490204,
+                                                      "Northern Europe": 0.48470839407803695,
+                                                      "Southern Europe": 0.0018426250932842246,
+                                                      "Western Europe": 0.10576531747397779
                                                     },
-                                                    "entropy": 0.9924769311875514,
+                                                    "entropy": 0.9924769390702164,
                                                     "value": "Northern Europe"
                                                   }
                                                 }
                                               }
                                             ],
-                                            "name": "NODE_0000101",
+                                            "name": "NODE_0000099",
                                             "node_attrs": {
                                               "clade_membership": {
                                                 "value": "B.1"
@@ -13059,25 +13059,25 @@
                                               "div": 6,
                                               "num_date": {
                                                 "confidence": [
-                                                  2020.1147456846475,
-                                                  2020.1732498149506
+                                                  2020.1149862656423,
+                                                  2020.1706465051757
                                                 ],
-                                                "value": 2020.1513291633823
+                                                "value": 2020.1513291172605
                                               },
                                               "region": {
                                                 "confidence": {
-                                                  "North America": 0.32030939625603955,
-                                                  "Northern Europe": 0.3985273991181299,
-                                                  "Southern Europe": 0.002047149682720721,
-                                                  "Western Europe": 0.27544052507161265
+                                                  "North America": 0.32030938913207163,
+                                                  "Northern Europe": 0.39852739801464604,
+                                                  "Southern Europe": 0.0020471499346599075,
+                                                  "Western Europe": 0.2754405325721258
                                                 },
-                                                "entropy": 1.1253617688040891,
+                                                "entropy": 1.1253617743258877,
                                                 "value": "Northern Europe"
                                               }
                                             }
                                           }
                                         ],
-                                        "name": "NODE_0000100",
+                                        "name": "NODE_0000098",
                                         "node_attrs": {
                                           "clade_membership": {
                                             "value": "B.1"
@@ -13085,25 +13085,25 @@
                                           "div": 6,
                                           "num_date": {
                                             "confidence": [
-                                              2020.1136835647794,
-                                              2020.1722526414324
+                                              2020.1137229138392,
+                                              2020.168517935626
                                             ],
-                                            "value": 2020.1448993864813
+                                            "value": 2020.1448993537037
                                           },
                                           "region": {
                                             "confidence": {
-                                              "North America": 0.3936565467521285,
-                                              "Northern Europe": 0.49779702442081186,
-                                              "Southern Europe": 0.0017798944378663523,
-                                              "Western Europe": 0.10329708748901639
+                                              "North America": 0.39365654045865034,
+                                              "Northern Europe": 0.4977970271075989,
+                                              "Southern Europe": 0.0017798946462452784,
+                                              "Western Europe": 0.10329709046512578
                                             },
-                                            "entropy": 0.985354691686861,
+                                            "entropy": 0.9853546988700019,
                                             "value": "Northern Europe"
                                           }
                                         }
                                       }
                                     ],
-                                    "name": "NODE_0000098",
+                                    "name": "NODE_0000097",
                                     "node_attrs": {
                                       "clade_membership": {
                                         "value": "B.1"
@@ -13111,24 +13111,24 @@
                                       "div": 6,
                                       "num_date": {
                                         "confidence": [
-                                          2020.1139407399091,
-                                          2020.1730740769951
+                                          2020.1137889741674,
+                                          2020.1692507855648
                                         ],
-                                        "value": 2020.1353326279582
+                                        "value": 2020.1351944349092
                                       },
                                       "region": {
                                         "confidence": {
-                                          "North America": 0.8732206291963526,
-                                          "Northern Europe": 0.10415846048293717,
-                                          "Western Europe": 0.020467834134659083
+                                          "North America": 0.8732206208323442,
+                                          "Northern Europe": 0.10415846646321007,
+                                          "Western Europe": 0.020467836164514676
                                         },
-                                        "entropy": 0.4505196716787159,
+                                        "entropy": 0.45051969475672565,
                                         "value": "North America"
                                       }
                                     }
                                   }
                                 ],
-                                "name": "NODE_0000097",
+                                "name": "NODE_0000096",
                                 "node_attrs": {
                                   "clade_membership": {
                                     "value": "B.1"
@@ -13136,24 +13136,24 @@
                                   "div": 6,
                                   "num_date": {
                                     "confidence": [
-                                      2020.1149363769578,
-                                      2020.1689822093106
+                                      2020.1154978993357,
+                                      2020.1694434131941
                                     ],
-                                    "value": 2020.1274723072963
+                                    "value": 2020.1266099948675
                                   },
                                   "region": {
                                     "confidence": {
-                                      "North America": 0.9100508023177664,
-                                      "Northern Europe": 0.07951150125441413,
-                                      "Western Europe": 0.009134255112486877
+                                      "North America": 0.9100507952559929,
+                                      "Northern Europe": 0.0795115067265671,
+                                      "Western Europe": 0.00913425643902129
                                     },
-                                    "entropy": 0.34088508380382115,
+                                    "entropy": 0.34088510542824724,
                                     "value": "North America"
                                   }
                                 }
                               }
                             ],
-                            "name": "NODE_0000096",
+                            "name": "NODE_0000091",
                             "node_attrs": {
                               "clade_membership": {
                                 "value": "B.1"
@@ -13161,25 +13161,25 @@
                               "div": 6,
                               "num_date": {
                                 "confidence": [
-                                  2020.114618458435,
-                                  2020.166119808191
+                                  2020.114778596276,
+                                  2020.1667053522085
                                 ],
-                                "value": 2020.1268507395414
+                                "value": 2020.1266951631492
                               },
                               "region": {
                                 "confidence": {
-                                  "North America": 0.7772962086529447,
-                                  "Northern Europe": 0.20667338227323884,
-                                  "Southern Europe": 0.0010072387568654697,
-                                  "Western Europe": 0.01324292114791846
+                                  "North America": 0.7772961941801322,
+                                  "Northern Europe": 0.2066733947913689,
+                                  "Southern Europe": 0.0010072388986672445,
+                                  "Western Europe": 0.013242922695644494
                                 },
-                                "entropy": 0.6003499975953596,
+                                "entropy": 0.6003500235107944,
                                 "value": "North America"
                               }
                             }
                           }
                         ],
-                        "name": "NODE_0000091",
+                        "name": "NODE_0000090",
                         "node_attrs": {
                           "clade_membership": {
                             "value": "B.1"
@@ -13187,18 +13187,18 @@
                           "div": 6,
                           "num_date": {
                             "confidence": [
-                              2020.1138802305982,
-                              2020.1304945565714
+                              2020.1142838274777,
+                              2020.130374169047
                             ],
-                            "value": 2020.1179276769885
+                            "value": 2020.118280553911
                           },
                           "region": {
                             "confidence": {
-                              "North America": 0.9016200553256011,
-                              "Northern Europe": 0.09138836083458582,
-                              "Western Europe": 0.005936254244392935
+                              "North America": 0.9016200469645931,
+                              "Northern Europe": 0.09138836805413589,
+                              "Western Europe": 0.00593625517573989
                             },
-                            "entropy": 0.3515542724068101,
+                            "entropy": 0.3515542954035775,
                             "value": "North America"
                           }
                         }
@@ -13212,24 +13212,24 @@
                       "div": 6,
                       "num_date": {
                         "confidence": [
-                          2020.11307470275,
-                          2020.12283724176
+                          2020.113032292292,
+                          2020.1228236332342
                         ],
-                        "value": 2020.1181599984327
+                        "value": 2020.1181600029565
                       },
                       "region": {
                         "confidence": {
-                          "North America": 0.8648410934183002,
-                          "Northern Europe": 0.1296904914716412,
-                          "Western Europe": 0.005468258803916223
+                          "North America": 0.8648410830208192,
+                          "Northern Europe": 0.1296905013141181,
+                          "Western Europe": 0.005468259358871076
                         },
-                        "entropy": 0.41897516470381413,
+                        "entropy": 0.4189751861897546,
                         "value": "North America"
                       }
                     }
                   }
                 ],
-                "name": "NODE_0000084",
+                "name": "NODE_0000082",
                 "node_attrs": {
                   "clade_membership": {
                     "value": "B.1"
@@ -13237,19 +13237,19 @@
                   "div": 5,
                   "num_date": {
                     "confidence": [
-                      2019.9990064275064,
-                      2020.1347744523346
+                      2019.9921286878016,
+                      2020.1255650522519
                     ],
-                    "value": 2020.0668856362067
+                    "value": 2020.0863091333977
                   },
                   "region": {
                     "confidence": {
-                      "North America": 0.484095082042243,
-                      "Northern Europe": 0.02846016457702201,
-                      "Southern Europe": 0.001681875228215741,
-                      "Western Europe": 0.4838895934212013
+                      "North America": 0.4840950809944765,
+                      "Northern Europe": 0.02846016822082956,
+                      "Southern Europe": 0.001681875458442944,
+                      "Western Europe": 0.48388959029942913
                     },
-                    "entropy": 0.829206363216683,
+                    "entropy": 0.8292063769583717,
                     "value": "North America"
                   }
                 }
@@ -13263,18 +13263,18 @@
               "div": 5,
               "num_date": {
                 "confidence": [
-                  2020.0003778993457,
-                  2020.076489200742
+                  2020.0022938828522,
+                  2020.0793254884884
                 ],
-                "value": 2020.0489368702524
+                "value": 2020.0438566850291
               },
               "region": {
                 "confidence": {
-                  "North America": 0.13679901885018442,
-                  "Northern Europe": 0.0041977404192548445,
-                  "Western Europe": 0.8575839089595018
+                  "North America": 0.1367990201910099,
+                  "Northern Europe": 0.004197741161074552,
+                  "Western Europe": 0.857583906627388
                 },
-                "entropy": 0.43808737469164505,
+                "entropy": 0.43808738303462674,
                 "value": "Western Europe"
               }
             }
@@ -13288,19 +13288,19 @@
           "div": 4,
           "num_date": {
             "confidence": [
-              2019.9356128926215,
-              2020.061239701289
+              2019.9356244623461,
+              2020.060513502796
             ],
-            "value": 2020.0253986924447
+            "value": 2020.0253987344627
           },
           "region": {
             "confidence": {
-              "Eastern Asia": 0.005266509306280065,
-              "North America": 0.0013531980579413133,
-              "Northern Europe": 0.0027332617615988715,
-              "Western Europe": 0.990641186867352
+              "Eastern Asia": 0.0052665101010413926,
+              "North America": 0.0013531982697941242,
+              "Northern Europe": 0.002733262257991288,
+              "Western Europe": 0.9906411853625823
             },
-            "entropy": 0.06208921565732012,
+            "entropy": 0.06208922416417659,
             "value": "Western Europe"
           }
         }
@@ -13314,16 +13314,16 @@
       "div": 0,
       "num_date": {
         "confidence": [
-          2019.9237608825592,
-          2019.976585910222
+          2019.9229867318481,
+          2019.9765859309487
         ],
-        "value": 2019.926872924835
+        "value": 2019.926891638906
       },
       "region": {
         "confidence": {
-          "Eastern Asia": 0.9999994665337831
+          "Eastern Asia": 0.9999994665336143
         },
-        "entropy": 8.328927920918848e-06,
+        "entropy": 8.32893039801789e-06,
         "value": "Eastern Asia"
       }
     }
