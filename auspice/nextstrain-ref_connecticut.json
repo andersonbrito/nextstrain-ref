@@ -596,10 +596,6 @@
         "key": "category",
         "scale": [
           [
-            "Other variants",
-            "#808080"
-          ],
-          [
             "VOC (B.1.1.7)",
             "#AB0700"
           ],
@@ -618,6 +614,10 @@
           [
             "VOI (B.1.526)",
             "#0000B2"
+          ],
+          [
+            "Other variants",
+            "#555555"
           ]
         ],
         "title": "Variant category",
