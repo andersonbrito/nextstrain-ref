@@ -372,13 +372,13 @@
         "type": "categorical"
       },
       {
-        "key": "logistic_growth",
-        "title": "logistic_growth",
+        "key": "current_frequency",
+        "title": "current_frequency",
         "type": "continuous"
       },
       {
-        "key": "current_frequency",
-        "title": "current_frequency",
+        "key": "logistic_growth",
+        "title": "logistic_growth",
         "type": "continuous"
       }
     ],
